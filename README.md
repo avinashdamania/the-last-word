@@ -1,4 +1,4 @@
-# The last word - Project2
+# The Last Word
 
 Members:
 
@@ -12,4 +12,6 @@ Members:
 
 
 Website Link: http://thelastword.tech/
+
+Migrated from Gitlab repo at https://gitlab.com/AnuKritiW/the-last-word
 
