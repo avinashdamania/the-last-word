@@ -1,0 +1,10 @@
+http://api.worldbank.org/v2/country/{}?format=json
+Error processing country code: zai
+Error processing country code: ang
+Error processing country code: pcn
+Error processing country code: guf
+Error processing country code: nfk
+Error processing country code: cok
+Error processing country code: esh
+Error processing country code: tkl
+Error processing country code: niu

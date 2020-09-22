@@ -1,0 +1,21 @@
+{
+    "Meta": {
+        "fields": ["Mainly Spoken", "ISO 639-3", "Autonym", "Population", "Language Maps", "Language Status", "Classification", "Dialects", "Typology", "Language Use", "Language Development", "Language Resources", "Writing", "Other Comments"]
+    },
+    "Data": {
+        "Mainly Spoken": "United Kingdom",
+        "ISO 639-3": "eng",
+        "Autonym": "English",
+        "Population": "58,100,000 in United Kingdom, all users. L1 users: 56,600,000 in United Kingdom . England and Wales 49,800,000, Scotland 5,118,000, Northern Ireland 1,681,000. L2 users: 1,500,000 . Total users in all countries: 1,132,366,680 .",
+        "Language Maps": "  Cook Islands   Ireland and United Kingdom   Liberia   Lesotho, South Africa and Swaziland   South Africa: Enlarged area   El Salvador and Honduras",
+        "Language Status": "1 . De facto national language.",
+        "Classification": "Indo-European, Germanic, West, English",
+        "Dialects": "Cockney, Scouse, Geordie, West Country, East Anglia, Birmingham , South Wales, Edinburgh, Belfast, Cornwall, Cumberland, Central Cumberland, Devonshire, East Devonshire, Dorset, Durham, Bolton Lancashire, North Lancashire, Radcliffe Lancashire, Northumberland, Norfolk, Newcastle Northumberland, Tyneside Northumberland, Lowland Scottish, Somerset, Sussex, Westmorland, North Wiltshire, Craven Yorkshire, North Yorkshire, Sheffield Yorkshire, West Yorkshire, Glaswegian. Many local English varieties around the world. Lexical similarity: 60% with German, 27% with French, 24% with Russian.",
+        "Typology": "SVO; prepositions; genitives after noun heads; articles, adjectives, numerals before noun heads; question word initial; word order distinguishes subject, object, indirect objects, given and new information, topic and comment; active and passive; causative; comparative; consonant and vowel clusters; 24 consonants, 13 vowels, 8 diphthongs; non-tonal; free stress; phrasal verbs.",
+        "Language Use": "Some also use French  . A few also use Spanish  , Standard German  .",
+        "Language Development": "Fully developed. Bible: 1382–2002.",
+        "Language Resources": "OLAC resources in and about English",
+        "Writing": "Braille script . Deseret Alphabet , developed in 1854 with limited usage until 1877. Latin script , primary usage. Shavian  script , no longer in use.",
+        "Other Comments": "Christian."
+    }
+}

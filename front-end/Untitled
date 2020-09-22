@@ -1,0 +1,15 @@
+for country:
+
+Principal Languages, Literacy Rate, Population Full, Status Profile,
+Spoken Languages, Language Counts, Maps (array of strings of map_url)
+
+
+
+for language:
+previewURL, Name, ISO 693-3, Classification, Mainly Spoken, Location, Language Use, Writing, Autonym,
+Language Status, Population, Dialects, Language Cloud
+
+
+for charity:
+
+logo, name, motto, website, address, donation_link, operations, social_media, mission

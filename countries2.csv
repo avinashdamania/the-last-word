@@ -1,0 +1,152 @@
+2,United States,USA,North America,High income,Washington D.C.,-77.032,38.8895
+3,Tanzania,TZA,Sub-Saharan Africa ,Low income,Dodoma,35.7382,-6.17486
+5,Canada,CAN,North America,High income,Ottawa,-75.6919,45.4215
+6,India,IND,South Asia,Lower middle income,New Delhi,77.225,28.6353
+7,Iraq,IRQ,Middle East & North Africa,Upper middle income,Baghdad,44.394,33.3302
+8,Russian Federation,RUS,Europe & Central Asia,Upper middle income,Moscow,37.6176,55.7558
+10,Brazil,BRA,Latin America & Caribbean ,Upper middle income,Brasilia,-47.9292,-15.7801
+11,Ecuador,ECU,Latin America & Caribbean ,Upper middle income,Quito,-78.5243,-0.229498
+12,Vanuatu,VUT,East Asia & Pacific,Lower middle income,Port-Vila,168.321,-17.7404
+17,Philippines,PHL,East Asia & Pacific,Lower middle income,Manila,121.035,14.5515
+18,Guinea,GIN,Sub-Saharan Africa ,Low income,Conakry,-13.7,9.51667
+20,Papua New Guinea,PNG,East Asia & Pacific,Lower middle income,Port Moresby,147.194,-9.47357
+23,Sudan,SDN,Sub-Saharan Africa ,Lower middle income,Khartoum,32.5363,15.5932
+24,Chad,TCD,Sub-Saharan Africa ,Low income,N'Djamena,15.0445,12.1048
+26,China,CHN,East Asia & Pacific,Upper middle income,Beijing,116.286,40.0495
+30,Nicaragua,NIC,Latin America & Caribbean ,Lower middle income,Managua,-86.2734,12.1475
+35,Peru,PER,Latin America & Caribbean ,Upper middle income,Lima,-77.0465,-12.0931
+37,"Egypt, Arab Rep.",EGY,Middle East & North Africa,Lower middle income,Cairo,31.2461,30.0982
+39,Turkey,TUR,Europe & Central Asia,Upper middle income,Ankara,32.3606,39.7153
+40,Dominica,DMA,Latin America & Caribbean ,Upper middle income,Roseau,-61.39,15.2976
+42,Poland,POL,Europe & Central Asia,High income,Warsaw,21.02,52.26
+45,Australia,AUS,East Asia & Pacific,High income,Canberra,149.129,-35.282
+46,Croatia,HRV,Europe & Central Asia,High income,Zagreb,15.9614,45.8069
+47,Nepal,NPL,South Asia,Low income,Kathmandu,85.3157,27.6939
+48,Solomon Islands,SLB,East Asia & Pacific,Lower middle income,Honiara,159.949,-9.42676
+50,Cameroon,CMR,Sub-Saharan Africa ,Lower middle income,Yaounde,11.5174,3.8721
+52,Kenya,KEN,Sub-Saharan Africa ,Lower middle income,Nairobi,36.8126,-1.27975
+53,Cote d'Ivoire,CIV,Sub-Saharan Africa ,Lower middle income,Yamoussoukro,-4.0305,5.332
+62,Ethiopia,ETH,Sub-Saharan Africa ,Low income,Addis Ababa,38.7468,9.02274
+69,Myanmar,MMR,East Asia & Pacific,Lower middle income,Naypyidaw,95.9562,21.914
+71,Indonesia,IDN,East Asia & Pacific,Lower middle income,Jakarta,106.83,-6.19752
+74,Morocco,MAR,Middle East & North Africa,Lower middle income,Rabat,-6.8704,33.9905
+76,Bolivia,BOL,Latin America & Caribbean ,Lower middle income,La Paz,-66.1936,-13.9908
+79,Ukraine,UKR,Europe & Central Asia,Lower middle income,Kiev,30.5038,50.4536
+82,South Africa,ZAF,Sub-Saharan Africa ,Upper middle income,Pretoria,28.1871,-25.746
+90,Argentina,ARG,Latin America & Caribbean ,Upper middle income,Buenos Aires,-58.4173,-34.6118
+92,Chile,CHL,Latin America & Caribbean ,High income,Santiago,-70.6475,-33.475
+99,El Salvador,SLV,Latin America & Caribbean ,Lower middle income,San Salvador,-89.2073,13.7034
+100,Honduras,HND,Latin America & Caribbean ,Lower middle income,Tegucigalpa,-87.4667,15.1333
+103,Syrian Arab Republic,SYR,Middle East & North Africa,Low income,Damascus,36.3119,33.5146
+106,"Venezuela, RB",VEN,Latin America & Caribbean ,Upper middle income,Caracas,-69.8371,9.08165
+130,Bhutan,BTN,South Asia,Lower middle income,Thimphu,89.6177,27.5768
+133,Uganda,UGA,Sub-Saharan Africa ,Low income,Kampala,32.5729,0.314269
+135,Nigeria,NGA,Sub-Saharan Africa ,Lower middle income,Abuja,7.48906,9.05804
+138,Malaysia,MYS,East Asia & Pacific,Upper middle income,Kuala Lumpur,101.684,3.12433
+141,Colombia,COL,Latin America & Caribbean ,Upper middle income,Bogota,-74.082,4.60987
+154,Tunisia,TUN,Middle East & North Africa,Lower middle income,Tunis,10.21,36.7899
+157,Botswana,BWA,Sub-Saharan Africa ,Upper middle income,Gaborone,25.9201,-24.6544
+161,New Caledonia,NCL,East Asia & Pacific,High income,Noum'ea,166.464,-22.2677
+174,"Iran, Islamic Rep.",IRN,Middle East & North Africa,Upper middle income,Tehran,51.4447,35.6878
+209,Spain,ESP,Europe & Central Asia,High income,Madrid,-3.70327,40.4167
+212,Togo,TGO,Sub-Saharan Africa ,Low income,Lome,1.2255,6.1228
+224,United Kingdom,GBR,Europe & Central Asia,High income,London,-0.126236,51.5002
+225,Finland,FIN,Europe & Central Asia,High income,Helsinki,24.9525,60.1608
+228,Germany,DEU,Europe & Central Asia,High income,Berlin,13.4115,52.5235
+238,Thailand,THA,East Asia & Pacific,Upper middle income,Bangkok,100.521,13.7308
+250,Sierra Leone,SLE,Sub-Saharan Africa ,Low income,Freetown,-13.2134,8.4821
+253,Latvia,LVA,Europe & Central Asia,High income,Riga,24.1048,56.9465
+256,Ireland,IRL,Europe & Central Asia,High income,Dublin,-6.26749,53.3441
+257,Hungary,HUN,Europe & Central Asia,High income,Budapest,19.0408,47.4984
+260,Azerbaijan,AZE,Europe & Central Asia,Upper middle income,Baku,49.8932,40.3834
+262,Panama,PAN,Latin America & Caribbean ,High income,Panama City,-79.5188,8.99427
+327,Mexico,MEX,Latin America & Caribbean ,Upper middle income,Mexico City,-99.1276,19.427
+373,Vietnam,VNM,East Asia & Pacific,Lower middle income,Hanoi,105.825,21.0069
+435,Suriname,SUR,Latin America & Caribbean ,Upper middle income,Paramaribo,-55.1679,5.8232
+466,Mongolia,MNG,East Asia & Pacific,Lower middle income,Ulaanbaatar,106.937,47.9129
+489,Japan,JPN,East Asia & Pacific,High income,Tokyo,139.77,35.67
+495,Costa Rica,CRI,Latin America & Caribbean ,Upper middle income,San Jose,-84.0089,9.63701
+503,Israel,ISR,Middle East & North Africa,High income,,35.2035,31.7717
+529,Cambodia,KHM,East Asia & Pacific,Lower middle income,Phnom Penh,104.874,11.5556
+530,Norway,NOR,Europe & Central Asia,High income,Oslo,10.7387,59.9138
+531,Sweden,SWE,Europe & Central Asia,High income,Stockholm,18.0645,59.3327
+545,Palau,PLW,East Asia & Pacific,High income,Koror,134.479,7.34194
+594,Lao PDR,LAO,East Asia & Pacific,Lower middle income,Vientiane,102.177,18.5826
+608,Paraguay,PRY,Latin America & Caribbean ,Upper middle income,Asuncion,-57.6362,-25.3005
+630,Lithuania,LTU,Europe & Central Asia,High income,Vilnius,25.2799,54.6896
+633,Timor-Leste,TLS,East Asia & Pacific,Lower middle income,Dili,125.567,-8.56667
+790,Afghanistan,AFG,South Asia,Low income,Kabul,69.1761,34.5228
+801,Mauritania,MRT,Sub-Saharan Africa ,Lower middle income,Nouakchott,-15.9824,18.2367
+901,Central African Republic,CAF,Sub-Saharan Africa ,Low income,Bangui,21.6407,5.63056
+909,Italy,ITA,Europe & Central Asia,High income,Rome,12.4823,41.8955
+910,Pakistan,PAK,South Asia,Lower middle income,Islamabad,72.8,30.5167
+961,Guyana,GUY,Latin America & Caribbean ,Upper middle income,Georgetown,-58.1548,6.80461
+997,Oman,OMN,Middle East & North Africa,High income,Muscat,58.5874,23.6105
+1017,French Polynesia,PYF,East Asia & Pacific,High income,Papeete,-149.57,-17.535
+1030,Greece,GRC,Europe & Central Asia,High income,Athens,23.7166,37.9792
+1032,Sri Lanka,LKA,South Asia,Upper middle income,Colombo,79.8528,6.92148
+1088,Bulgaria,BGR,Europe & Central Asia,Upper middle income,Sofia,23.3238,42.7105
+1089,Romania,ROU,Europe & Central Asia,Upper middle income,Bucharest,26.0979,44.4479
+1100,"Yemen, Rep.",YEM,Middle East & North Africa,Low income,Sana'a,44.2075,15.352
+1103,Guinea-Bissau,GNB,Sub-Saharan Africa ,Low income,Bissau,-15.1804,11.8037
+1104,Senegal,SEN,Sub-Saharan Africa ,Lower middle income,Dakar,-17.4734,14.7247
+1145,"Micronesia, Fed. Sts.",FSM,East Asia & Pacific,Lower middle income,Palikir,158.185,6.91771
+1164,Georgia,GEO,Europe & Central Asia,Upper middle income,Tbilisi,44.793,41.71
+1282,Ghana,GHA,Sub-Saharan Africa ,Lower middle income,Accra,-0.20795,5.57045
+1397,Greenland,GRL,Europe & Central Asia,High income,Nuuk,-51.7214,64.1836
+1399,Gabon,GAB,Sub-Saharan Africa ,Upper middle income,Libreville,9.45162,0.38832
+1420,Tajikistan,TJK,Europe & Central Asia,Low income,Dushanbe,68.7864,38.5878
+1458,Guatemala,GTM,Latin America & Caribbean ,Upper middle income,Guatemala City,-90.5328,14.6248
+1496,Cyprus,CYP,Europe & Central Asia,High income,Nicosia,33.3736,35.1676
+1583,Benin,BEN,Sub-Saharan Africa ,Low income,Porto-Novo,2.6323,6.4779
+1613,Libya,LBY,Middle East & North Africa,Upper middle income,Tripoli,13.1072,32.8578
+1639,Algeria,DZA,Middle East & North Africa,Upper middle income,Algiers,3.05097,36.7397
+1685,Equatorial Guinea,GNQ,Sub-Saharan Africa ,Upper middle income,Malabo,8.7741,3.7523
+1696,Mali,MLI,Sub-Saharan Africa ,Low income,Bamako,-7.50034,13.5667
+1748,"Congo, Rep.",COG,Sub-Saharan Africa ,Lower middle income,Brazzaville,15.2662,-4.2767
+1753,Uruguay,URY,Latin America & Caribbean ,High income,Montevideo,-56.0675,-34.8941
+1771,Fiji,FJI,East Asia & Pacific,Upper middle income,Suva,178.399,-18.1149
+1782,Eritrea,ERI,Sub-Saharan Africa ,Low income,Asmara,38.9183,15.3315
+1789,Belize,BLZ,Latin America & Caribbean ,Upper middle income,Belmopan,-88.7713,17.2534
+1917,North Macedonia,MKD,Europe & Central Asia,Upper middle income,Skopje,21.4361,42.0024
+1926,Namibia,NAM,Sub-Saharan Africa ,Upper middle income,Windhoek,17.0931,-22.5648
+1937,Bangladesh,BGD,South Asia,Lower middle income,Dhaka,90.4113,23.7055
+1963,Nauru,NRU,East Asia & Pacific,Upper middle income,Yaren District,166.920867,-0.5477
+2012,Uzbekistan,UZB,Europe & Central Asia,Lower middle income,Tashkent,69.269,41.3052
+2038,Burkina Faso,BFA,Sub-Saharan Africa ,Low income,Ouagadougou,-1.53395,12.3605
+2137,Turkmenistan,TKM,Europe & Central Asia,Upper middle income,Ashgabat,58.3794,37.9509
+2152,Tuvalu,TUV,East Asia & Pacific,Upper middle income,Funafuti,179.089567,-8.6314877
+2246,Aruba,,Latin America & Caribbean ,High income,Oranjestad,-70.0167,12.5167
+2294,Serbia,SRB,Europe & Central Asia,Upper middle income,Belgrade,20.4656,44.8024
+2327,Austria,AUT,Europe & Central Asia,High income,Vienna,16.3798,48.2201
+2329,Slovak Republic,SVK,Europe & Central Asia,High income,Bratislava,17.1073,48.1484
+2382,Switzerland,CHE,Europe & Central Asia,High income,Bern,7.44821,46.948
+2406,Niger,NER,Sub-Saharan Africa ,Low income,Niamey,2.1073,13.514
+2409,Kazakhstan,KAZ,Europe & Central Asia,Upper middle income,Astana,71.4382,51.1879
+2410,Kyrgyz Republic,KGZ,Europe & Central Asia,Lower middle income,Bishkek,74.6057,42.8851
+2414,Lesotho,LSO,Sub-Saharan Africa ,Lower middle income,Maseru,27.7167,-29.5208
+2434,Estonia,EST,Europe & Central Asia,High income,Tallinn,24.7586,59.4392
+2459,Faroe Islands,FRO,Europe & Central Asia,High income,Torshavn,-6.91181,61.8926
+2468,Guam,GUM,East Asia & Pacific,High income,Agana,144.794,13.4443
+2476,New Zealand,NZL,East Asia & Pacific,High income,Wellington,174.776,-41.2865
+2518,France,FRA,Europe & Central Asia,High income,Paris,2.35097,48.8566
+2557,Portugal,PRT,Europe & Central Asia,High income,Lisbon,-9.13552,38.7072
+2575,Moldova,MDA,Europe & Central Asia,Lower middle income,Chisinau,28.8497,47.0167
+2585,Lebanon,LBN,Middle East & North Africa,Upper middle income,Beirut,35.5134,33.8872
+2598,Armenia,ARM,Europe & Central Asia,Upper middle income,Yerevan,44.509,40.1596
+2621,Jordan,JOR,Middle East & North Africa,Upper middle income,Amman,35.9263,31.9497
+2645,Netherlands,NLD,Europe & Central Asia,High income,Amsterdam,4.89095,52.3738
+2650,Belgium,BEL,Europe & Central Asia,High income,Brussels,4.36761,50.8371
+2652,Luxembourg,LUX,Europe & Central Asia,High income,Luxembourg,6.1296,49.61
+2678,Albania,ALB,Europe & Central Asia,Upper middle income,Tirane,19.8172,41.3317
+2711,Barbados,BRB,Latin America & Caribbean ,High income,Bridgetown,-59.6105,13.0935
+2723,Monaco,MCO,Europe & Central Asia,High income,Monaco,7.41891,43.7325
+2757,San Marino,SMR,Europe & Central Asia,High income,San Marino,12.4486,43.9322
+2761,Slovenia,SVN,Europe & Central Asia,High income,Ljubljana,14.5044,46.0546
+2777,Bosnia and Herzegovina,BIH,Europe & Central Asia,Upper middle income,Sarajevo,18.4214,43.8607
+2797,Czech Republic,CZE,Europe & Central Asia,High income,Prague,14.4205,50.0878
+2801,Montenegro,MNE,Europe & Central Asia,Upper middle income,Podgorica,19.2595,42.4602
+2809,Denmark,DNK,Europe & Central Asia,High income,Copenhagen,12.5681,55.6763
+2875,Liechtenstein,LIE,Europe & Central Asia,High income,Vaduz,9.52148,47.1411
+2971,West Bank and Gaza,PSE,Middle East & North Africa,Lower middle income,,,
+3076,"Korea, Rep.",KOR,East Asia & Pacific,High income,Seoul,126.957,37.5323

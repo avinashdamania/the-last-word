@@ -1,0 +1,62 @@
+@startuml
+
+' hide the spot
+hide circle
+
+' avoid problems with angled crows feet
+skinparam linetype ortho
+
+entity "Country" as e01 {
+  *id : number <<generated>>
+  --
+  * name : varchar(100)
+  * country_code : varchar(3)
+  * region: varchar(50)
+  * income_level : text
+  * capital : varchar(100)
+  * longitude : numeric(7,4)
+  * latitude : numeric(7,4)
+}
+
+entity "Language" as e02 {
+  *id : number <<generated>>
+  --
+  * name : varchar(200)
+  * countries : text
+  * country_codes : text <<FK>>
+  * iso : text
+  * severity : varchar(50)
+  * population : integer
+  * latitude : numeric(7,4)
+  * longitude : numeric(7,4)
+  * description : text
+  * french_name : text
+  * spanish_name : text
+
+}
+
+entity "Charities" as e03 {
+  * id : number <<generated>>
+  --
+  * ein: varchar(20)
+  * name : text
+  * address text
+  * ntee_code: varchar(10)
+  * ntee_classification: text
+  * ntee_type : text
+  * classification : text
+  * subsection : integer
+  * activities : text
+  * foundation_status : text
+  * deductibility : text
+  * affiliation : text
+  * asset_amount : integer
+  * income_amount : integer
+  * form_990_revenue_amount : integer
+  * filing_requirement : integer
+}
+
+e01 }|..|{ e02
+e01 }o..|| e03
+
+@enduml

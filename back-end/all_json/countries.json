@@ -1,0 +1,1369 @@
+[{
+    "Code": "USA",
+    "Name": "United States",
+    "Region": "North America",
+    "Development": "High income",
+    "Capital": "Washington D.C.",
+    "Longitude": -77.032,
+    "Latitude": 38.8895,
+    "Languages": [259, 283, 788, 1454, 830, 855, 255, 796, 890, 797, 798, 857, 807, 868, 150, 854, 822, 1548, 783, 808, 825, 771, 781, 901, 958, 813, 852, 833, 831, 832, 853, 1549, 791, 866, 827, 828, 806, 838, 839, 799, 1534, 778, 794, 856, 850, 774, 782, 1537, 881, 849, 777, 779, 809, 810, 792, 811, 1535, 801, 789, 1463, 816, 814, 812, 834, 836, 835, 817, 865, 279, 1470, 802, 960, 152, 869, 793, 902, 844, 815, 820, 805, 829, 891, 764, 884, 269, 270, 887, 1465, 892, 893, 863, 819, 1459, 780, 826, 790, 775, 153, 161, 824, 860, 837, 848, 144, 894, 803, 776, 867, 1464, 821, 766, 845, 858, 886, 272, 1529, 1530, 1531, 159, 160, 162, 959, 1571, 862, 841, 1030, 843, 274, 770, 823, 864, 2367, 142, 145, 1452, 1547, 1458, 154, 1034, 842, 2385, 157, 882, 768, 876, 889, 1550, 898, 846, 787, 1466, 278, 1471, 141, 258, 1456, 769, 1527, 1528, 873, 859, 899, 1544, 1533, 2352, 1543, 772, 1472, 1032, 872, 897, 875, 2370, 1455, 1453, 1536, 482, 712, 1031, 786, 877, 1540, 1538, 1539, 840, 765, 1532, 861, 1468, 1469, 762, 1372, 1373, 1374, 1375, 1242, 874, 883, 878, 870, 900, 785, 879, 767, 1526, 880, 896, 1541, 1542, 903, 690, 691, 871, 1524, 885, 784, 256, 262, 888, 264, 1243, 2368, 2369, 795, 265, 280, 1473]
+}, {
+    "Code": "TZA",
+    "Name": "Tanzania",
+    "Region": "Sub-Saharan Africa",
+    "Development": "Low income",
+    "Capital": "Dodoma",
+    "Longitude": 35.7382,
+    "Latitude": -6.17486,
+    "Languages": [116, 121, 115, 114, 123, 117, 103, 119, 120, 122, 96, 118]
+}, {
+    "Code": "CAN",
+    "Name": "Canada",
+    "Region": "North America",
+    "Development": "High income",
+    "Capital": "Ottawa",
+    "Longitude": -75.6919,
+    "Latitude": 45.4215,
+    "Languages": [2393, 2399, 2400, 1326, 2376, 693, 2382, 1525, 261, 2389, 2387, 2377, 2374, 1969, 257, 260, 2360, 2367, 142, 155, 2390, 2363, 2385, 2357, 1546, 2380, 253, 263, 138, 2356, 1319, 141, 2388, 258, 282, 2352, 2354, 800, 2379, 2361, 2364, 1241, 273, 266, 2358, 2370, 254, 2381, 2359, 1968, 2355, 268, 1532, 1244, 2384, 2394, 2365, 1545, 267, 688, 2373, 151, 2372, 2366, 2375, 1317, 692, 271, 275, 2362, 276, 277, 804, 695, 2395, 262, 2398, 140, 1324, 1325, 1381, 2516, 2517, 2368, 2369, 2371, 2378, 2383, 2392, 2386, 2391, 2397, 2396]
+}, {
+    "Code": "IND",
+    "Name": "India",
+    "Region": "South Asia",
+    "Development": "Lower middle income",
+    "Capital": "New Delhi",
+    "Longitude": 77.225,
+    "Latitude": 28.6353,
+    "Languages": [429, 443, 513, 519, 558, 2722, 1364, 2455, 1363, 1220, 1176, 1199, 1223, 1224, 1555, 1690, 1191, 1512, 1200, 2487, 550, 562, 987, 1098, 1195, 1251, 448, 2260, 1575, 530, 1580, 1196, 1221, 1184, 1226, 433, 435, 984, 1192, 1225, 1214, 1183, 1573, 1194, 1362, 1222, 1197, 1207, 511, 2484, 1209, 1201, 1096, 543, 1551, 1552, 1181, 1097, 983, 1193, 1188, 1206, 1103, 1216, 1094, 1100, 1087, 1217, 1182, 1219, 2259, 535, 1198, 1589, 1084, 1606, 1090, 1168, 1190, 1584, 1180, 1361, 1560, 1583, 1142, 1187, 1189, 1185, 1152, 978, 985, 1178, 1157, 1164, 1203, 1173, 1215, 1576, 1170, 1146, 440, 979, 1171, 1561, 1106, 1147, 1150, 988, 938, 1218, 1151, 1134, 986, 1208, 1104, 1143, 1213, 1108, 1232, 1159, 2261, 1587, 1186, 1155, 1139, 1554, 1131, 1562, 1567, 1568, 1144, 1141, 1133, 1135, 1162, 1136, 1179, 1167, 1564, 1590, 1588, 1129, 1553, 1140, 1569, 1154, 1128, 1174, 1582, 981, 977, 1132, 1557, 1161, 1258, 1570, 1210, 1204, 1592, 1130, 1119, 1205, 1563, 1578, 1028, 1574, 1212, 1165, 1558, 1230, 1091, 1559, 1228, 1202, 1211, 1229, 1231, 1577, 1114, 1227, 1556, 1585, 1591, 1565, 1586, 1177, 2714, 1566, 1607, 1581, 2717, 1579, 2718, 2715, 2716, 447, 537, 1608, 2723]
+}, {
+    "Code": "IRQ",
+    "Name": "Iraq",
+    "Region": "Middle East & North Africa",
+    "Development": "Upper middle income",
+    "Capital": "Baghdad",
+    "Longitude": 44.394,
+    "Latitude": 33.3302,
+    "Languages": [2184, 2205, 2202, 1775, 1802, 7, 2232, 1064]
+}, {
+    "Code": "RUS",
+    "Name": "Russian Federation",
+    "Region": "Europe & Central Asia",
+    "Development": "Upper middle income",
+    "Capital": "Moscow",
+    "Longitude": 37.6176,
+    "Latitude": 55.7558,
+    "Languages": [486, 494, 689, 465, 677, 1353, 479, 1517, 678, 722, 329, 644, 477, 158, 509, 395, 470, 485, 488, 499, 510, 1449, 1610, 1611, 163, 679, 719, 502, 763, 416, 472, 452, 423, 467, 501, 505, 474, 493, 156, 476, 492, 490, 480, 504, 147, 360, 412, 1331, 1050, 491, 1038, 1048, 497, 496, 506, 372, 463, 1612, 1049, 1518, 473, 1043, 484, 675, 487, 489, 676, 385, 1052, 1044, 1047, 468, 1040, 420, 1039, 1060, 498, 1042, 1053, 1332, 466, 483, 1516, 1079, 1046, 1333, 1051, 327, 1037, 396, 1061, 1036, 1035, 393, 503, 1077, 427, 462, 507, 422, 481, 669, 397, 1076, 1073, 376, 1071, 368, 328, 373, 1234, 1064, 469, 1078, 1075, 350, 1068, 347, 508, 1074, 418, 1072, 1070, 1066, 1065, 1069, 338, 1067, 334, 405, 335, 383, 500, 471, 478, 495, 674, 2450, 1598, 1493, 1365, 721, 464, 680, 1336, 428, 457, 1334]
+}, {
+    "Code": "BRA",
+    "Name": "Brazil",
+    "Region": "Latin America & Caribbean",
+    "Development": "Upper middle income",
+    "Capital": "Brasilia",
+    "Longitude": -47.9292,
+    "Latitude": -15.7801,
+    "Languages": [1658, 1629, 1813, 1817, 630, 1838, 603, 1782, 1815, 1811, 1881, 618, 610, 624, 1624, 1507, 595, 1776, 571, 1708, 287, 1672, 652, 649, 2069, 1704, 1615, 1619, 1623, 1789, 600, 609, 611, 640, 1663, 567, 575, 664, 995, 1867, 1942, 1880, 613, 1674, 627, 1840, 615, 1509, 1794, 572, 637, 1957, 1857, 1806, 1769, 629, 619, 1616, 1808, 576, 2024, 2025, 625, 660, 656, 1696, 612, 1710, 1934, 1916, 1766, 1847, 1874, 1770, 1762, 1457, 1859, 1796, 1669, 2023, 1625, 574, 1705, 1774, 1627, 1508, 1793, 1617, 1665, 1755, 1700, 1842, 1618, 1632, 642, 761, 614, 1240, 1810, 1621, 1760, 1239, 1868, 1839, 1849, 1238, 1237, 1843, 1510, 616, 1921, 598, 1820, 1756, 1917, 1626, 1915, 1667, 1937, 1918, 1451, 647, 1872, 1628, 1668, 1236, 1912, 1858, 1856, 1759, 1845, 620, 1772, 1941, 1854, 1785, 1764, 1819, 1707, 602, 1781, 1706, 596, 1235, 1814, 1622, 1855, 1697, 1923, 1809, 628, 2067, 1807, 1757, 1805, 589, 1955, 1869, 1812, 1761, 1630, 1771, 1936, 1711, 1798, 1933, 2066, 1758, 1870, 663, 1699, 1920, 1932, 1767, 1631, 1879, 323, 1818, 1763, 1852, 1702, 1675, 1948, 1816, 1666, 648, 617, 1959, 1878, 742]
+}, {
+    "Code": "ECU",
+    "Name": "Ecuador",
+    "Region": "Latin America & Caribbean",
+    "Development": "Upper middle income",
+    "Capital": "Quito",
+    "Longitude": -78.5243,
+    "Latitude": -0.229498,
+    "Languages": [756, 2064, 668, 1260, 1988, 757, 1835, 1261, 758, 591, 566, 581, 586, 1276, 759, 1275, 1931, 1929, 1930, 1935]
+}, {
+    "Code": "VUT",
+    "Name": "Vanuatu",
+    "Region": "East Asia & Pacific",
+    "Development": "Lower middle income",
+    "Capital": "Port-Vila",
+    "Longitude": 168.321,
+    "Latitude": -17.7404,
+    "Languages": [2141, 2642, 2647, 2507, 2508, 2157, 2146, 2147, 2142, 2149, 2150, 2151, 2152, 2154, 2513, 2515, 2644, 2143, 2144, 2148, 2153, 2155, 2510, 2648, 2140, 2156, 2652, 2645, 2145, 2650, 2649, 2654, 2638, 2639, 2504, 2646, 2512, 2641, 2651, 2511, 2505, 2506, 2509, 2640, 2643, 2653, 2514]
+}, {
+    "Code": "PHL",
+    "Name": "Philippines",
+    "Region": "East Asia & Pacific",
+    "Development": "Lower middle income",
+    "Capital": "Manila",
+    "Longitude": 121.035,
+    "Latitude": 14.5515,
+    "Languages": [2170, 2201, 2091, 2200, 2212, 2213, 2199, 2164, 2171, 2166, 2168, 2169, 2214, 2234, 2167]
+}, {
+    "Code": "GIN",
+    "Name": "Guinea",
+    "Region": "Sub-Saharan Africa",
+    "Development": "Low income",
+    "Capital": "Conakry",
+    "Longitude": -13.7,
+    "Latitude": 9.51667,
+    "Languages": [9, 12, 14, 1312, 1313, 13, 1309, 11]
+}, {
+    "Code": "PNG",
+    "Name": "Papua New Guinea",
+    "Region": "East Asia & Pacific",
+    "Development": "Lower middle income",
+    "Capital": "Port Moresby",
+    "Longitude": 147.194,
+    "Latitude": -9.47357,
+    "Languages": [2661, 2671, 2675, 2658, 2687, 2709, 2677, 2713, 2685, 2113, 2711, 2112, 2120, 2106, 2655, 2114, 2698, 2125, 2706, 2707, 1940, 2108, 2110, 2115, 2111, 2097, 2129, 2095, 2128, 2666, 2103, 2117, 2107, 2102, 2118, 2659, 2660, 2126, 2663, 2132, 2101, 2119, 2121, 2099, 2686, 2100, 2704, 2105, 2127, 1939, 2116, 2130, 2124, 2104, 2098, 2096, 2109, 2683, 2122, 2692, 2131, 2664, 2693, 2697, 2667, 2710, 2705, 2696, 2695, 2691, 2668, 2694, 2702, 2684, 2689, 2670, 2662, 2672, 2673, 2669, 2674, 2699, 2700, 2712, 2676, 2701, 2703, 2682, 2656, 2678, 2708, 2681, 2688, 2679, 2657, 2680, 2690, 2665]
+}, {
+    "Code": "SDN",
+    "Name": "Sudan",
+    "Region": "Sub-Saharan Africa",
+    "Development": "Lower middle income",
+    "Capital": "Khartoum",
+    "Longitude": 32.5363,
+    "Latitude": 15.5932,
+    "Languages": [53, 1692, 1695, 56, 68, 59, 1738, 1735, 1688, 1732, 66, 1730, 64, 1734, 1703, 1741, 1698, 75, 1740, 1731, 1724, 1722, 61, 1691, 1714, 69, 1725, 1736, 1720, 1716, 1737, 1727, 1097, 54, 58, 1689, 72, 73, 65, 74, 1729, 1694, 57, 1739, 1693, 1701, 67, 1726, 1728, 1718, 1723, 55, 1733, 52, 71, 1721, 62, 1719, 63, 1715, 1717, 70, 60, 1713, 700]
+}, {
+    "Code": "TCD",
+    "Name": "Chad",
+    "Region": "Sub-Saharan Africa",
+    "Development": "Low income",
+    "Capital": "N'Djamena",
+    "Longitude": 15.0445,
+    "Latitude": 12.1048,
+    "Languages": [1653, 1651, 1643, 1655, 1635, 1652, 1638, 1637, 1644, 1648, 46, 1639, 1657, 48, 1656, 1649, 1642, 1634, 1646, 1645, 1654, 1633, 47, 1640, 1650, 1636, 1641, 1647, 139]
+}, {
+    "Code": "CHN",
+    "Name": "China",
+    "Region": "East Asia & Pacific",
+    "Development": "Upper middle income",
+    "Capital": "Beijing",
+    "Longitude": 116.286,
+    "Latitude": 40.0495,
+    "Languages": [2048, 2042, 2043, 1432, 2049, 2050, 2044, 2045, 2046, 460, 2047, 2417, 455, 453, 454, 2041, 515, 2036, 452, 2040, 2037, 2442, 2409, 555, 2422, 1433, 536, 2035, 2421, 2418, 1421, 1191, 1512, 2423, 449, 2419, 549, 2206, 2449, 2406, 2441, 2207, 1496, 2405, 2260, 456, 2420, 2034, 2416, 2403, 1221, 2032, 2039, 2437, 984, 2033, 1194, 2411, 1426, 2412, 561, 675, 564, 2194, 538, 2407, 2026, 489, 533, 2209, 1428, 2415, 2404, 1431, 459, 523, 1127, 1427, 2028, 983, 450, 2426, 2436, 2429, 529, 2413, 1100, 2444, 1087, 2433, 2431, 2438, 2402, 2424, 557, 1219, 2259, 2029, 2430, 461, 2027, 2440, 2447, 2410, 1084, 2446, 2435, 556, 2432, 2445, 1425, 2031, 2428, 2448, 2434, 2443, 1502, 1461, 1501, 1423, 1430, 2030, 2408, 2425, 2427, 2414, 2249, 2241, 458, 1422, 2261, 2439, 1379, 1233, 451, 1429, 1179, 1128, 981, 1258, 1234, 2245, 1434, 1479, 1424, 534, 2477, 2456]
+}, {
+    "Code": "NIC",
+    "Name": "Nicaragua",
+    "Region": "Latin America & Caribbean",
+    "Development": "Lower middle income",
+    "Capital": "Managua",
+    "Longitude": -86.2734,
+    "Latitude": 12.1475,
+    "Languages": [1893, 1894, 1895, 1896, 1892, 313, 1890, 1889, 1891, 2089, 2092]
+}, {
+    "Code": "PER",
+    "Name": "Peru",
+    "Region": "Latin America & Caribbean",
+    "Development": "Upper middle income",
+    "Capital": "Lima",
+    "Longitude": -77.0465,
+    "Latitude": -12.0931,
+    "Languages": [587, 962, 754, 594, 631, 657, 729, 728, 651, 583, 636, 668, 727, 1945, 570, 608, 638, 746, 737, 738, 2058, 751, 730, 750, 653, 752, 996, 753, 607, 740, 736, 590, 1709, 1946, 747, 579, 733, 732, 566, 744, 745, 749, 1908, 748, 1014, 1015, 739, 735, 743, 605, 731, 654, 1012, 999, 742, 734, 998, 741, 997, 989, 1013, 755]
+}, {
+    "Code": "EGY",
+    "Name": "Egypt, Arab Rep.",
+    "Region": "Middle East & North Africa",
+    "Development": "Lower middle income",
+    "Capital": "Cairo",
+    "Longitude": 31.2461,
+    "Latitude": 30.0982,
+    "Languages": [8, 6, 2217]
+}, {
+    "Code": "TUR",
+    "Name": "Turkey",
+    "Region": "Europe & Central Asia",
+    "Development": "Upper middle income",
+    "Capital": "Ankara",
+    "Longitude": 32.3606,
+    "Latitude": 39.7153,
+    "Languages": [1338, 1987, 1062, 1984, 1077, 1494, 1986, 1076, 1056, 2232, 1064, 1078, 1065, 1985, 405, 673, 1492, 374]
+}, {
+    "Code": "DMA",
+    "Name": "Dominica",
+    "Region": "Latin America & Caribbean",
+    "Development": "Upper middle income",
+    "Capital": "Roseau",
+    "Longitude": -61.39,
+    "Latitude": 15.2976,
+    "Languages": [298]
+}, {
+    "Code": "POL",
+    "Name": "Poland",
+    "Region": "Europe & Central Asia",
+    "Development": "High income",
+    "Capital": "Warsaw",
+    "Longitude": 21.02,
+    "Latitude": 52.26,
+    "Languages": [413, 1474, 370, 1523, 407, 405, 335, 383, 428]
+}, {
+    "Code": "AUS",
+    "Name": "Australia",
+    "Region": "East Asia & Pacific",
+    "Development": "High income",
+    "Capital": "Canberra",
+    "Longitude": 149.129,
+    "Latitude": -35.282,
+    "Languages": [2075, 180, 189, 209, 2086, 2073, 682, 252, 170, 177, 173, 181, 179, 198, 239, 2072, 235, 2074, 248, 178, 2077, 218, 249, 2071, 204, 195, 201, 221, 217, 194, 202, 214, 231, 199, 223, 251, 206, 203, 236, 219, 234, 2079, 176, 174, 171, 192, 183, 205, 227, 229, 244, 238, 207, 165, 200, 241, 208, 169, 220, 240, 247, 246, 172, 182, 2076, 226, 213, 212, 224, 216, 230, 243, 188, 196, 185, 222, 2085, 232, 250, 2084, 225, 164, 175, 245, 197, 211, 190, 167, 191, 210, 228, 187, 2080, 237, 2082, 193, 2078, 186, 184, 2081, 215, 168, 166, 233, 2070, 2083, 242, 1938]
+}, {
+    "Code": "HRV",
+    "Name": "Croatia",
+    "Region": "Europe & Central Asia",
+    "Development": "High income",
+    "Capital": "Zagreb",
+    "Longitude": 15.9614,
+    "Latitude": 45.8069,
+    "Languages": [345, 364, 363, 1514, 421, 1021, 405, 374]
+}, {
+    "Code": "NPL",
+    "Name": "Nepal",
+    "Region": "South Asia",
+    "Development": "Low income",
+    "Capital": "Kathmandu",
+    "Longitude": 85.3157,
+    "Latitude": 27.6939,
+    "Languages": [438, 1121, 1148, 1149, 1156, 437, 445, 1107, 1259, 439, 446, 430, 1163, 1175, 1122, 1124, 1095, 1093, 1126, 442, 434, 1110, 433, 435, 961, 1033, 1123, 1172, 1089, 963, 1153, 1099, 1158, 1127, 1101, 1111, 1086, 1160, 1125, 432, 1115, 1166, 1085, 1088, 1083, 1102, 1109, 441, 1145, 1092, 436, 1169, 1105, 1446, 1112, 1120, 440, 431, 1116, 1082, 1447, 1025, 1128, 1028, 1113, 964, 1118, 1202, 1117, 1114, 1565]
+}, {
+    "Code": "SLB",
+    "Name": "Solomon Islands",
+    "Region": "East Asia & Pacific",
+    "Development": "Lower middle income",
+    "Capital": "Honiara",
+    "Longitude": 159.949,
+    "Latitude": -9.42676,
+    "Languages": [2629, 2632, 2634, 2134, 2139, 2138, 2133, 2136, 2137, 2135, 2637, 2635, 2631, 2628, 2633, 2627, 2630, 2636]
+}, {
+    "Code": "CMR",
+    "Name": "Cameroon",
+    "Region": "Sub-Saharan Africa",
+    "Development": "Lower middle income",
+    "Capital": "Yaounde",
+    "Longitude": 11.5174,
+    "Latitude": 3.8721,
+    "Languages": [41, 42, 35, 39, 1399, 1398, 44, 37, 38, 40, 1400, 23, 45, 36, 1413, 1417, 1397, 1403, 1415, 1394, 1404, 1402, 1418, 46, 1416, 33, 1411, 34, 1395, 1414, 1410, 1412, 1407, 1749, 1408, 1742]
+}, {
+    "Code": "KEN",
+    "Name": "Kenya",
+    "Region": "Sub-Saharan Africa",
+    "Development": "Lower middle income",
+    "Capital": "Nairobi",
+    "Longitude": 36.8126,
+    "Latitude": -1.27975,
+    "Languages": [92, 94, 93, 100, 137, 98, 102, 101, 95, 99, 91, 96, 97]
+}, {
+    "Code": "CIV",
+    "Name": "Cote d'Ivoire",
+    "Region": "Sub-Saharan Africa",
+    "Development": "Lower middle income",
+    "Capital": "Yamoussoukro",
+    "Longitude": -4.0305,
+    "Latitude": 5.332,
+    "Languages": [1321, 16, 1320, 15]
+}, {
+    "Code": "ETH",
+    "Name": "Ethiopia",
+    "Region": "Sub-Saharan Africa",
+    "Development": "Low income",
+    "Capital": "Addis Ababa",
+    "Longitude": 38.7468,
+    "Latitude": 9.02274,
+    "Languages": [1687, 89, 17, 87, 78, 79, 1683, 1682, 82, 86, 84, 90, 81, 80, 77, 1679, 85, 1673, 1671, 83, 1676, 1677, 88, 1685, 1733, 1681, 1684, 1686]
+}, {
+    "Code": "MMR",
+    "Name": "Myanmar",
+    "Region": "East Asia & Pacific",
+    "Development": "Lower middle income",
+    "Capital": "Naypyidaw",
+    "Longitude": 95.9562,
+    "Latitude": 21.914,
+    "Languages": [2219, 560, 540, 551, 520, 522, 521, 528, 2223, 517, 554, 2218, 2220, 1010, 2259, 2224, 2221, 1137, 2222, 2477, 2470, 2471, 2472, 2476, 2473, 2474, 2475, 2478]
+}, {
+    "Code": "IDN",
+    "Name": "Indonesia",
+    "Region": "East Asia & Pacific",
+    "Development": "Lower middle income",
+    "Capital": "Jakarta",
+    "Longitude": 106.83,
+    "Latitude": -6.19752,
+    "Languages": [2592, 2596, 2597, 2552, 2601, 2603, 2606, 2608, 2568, 2612, 2600, 2280, 2521, 2266, 2563, 2551, 2549, 2591, 2593, 2594, 2595, 2604, 2270, 2578, 2531, 2599, 2550, 2575, 2542, 2534, 2556, 2554, 2328, 2530, 2547, 2538, 2553, 2579, 2278, 2540, 2311, 2557, 2607, 2609, 1886, 2518, 2535, 2528, 2537, 2572, 2558, 2573, 2523, 2539, 2543, 2123, 2565, 2562, 2526, 2529, 2559, 2329, 2571, 1887, 2577, 2520, 2273, 2541, 2522, 2275, 2532, 2336, 2544, 2334, 2332, 1888, 2335, 2564, 2582, 2546, 2548, 2569, 2570, 2325, 2330, 2611, 2488, 2519, 2533, 2318, 2305, 2320, 2307, 2527, 2567, 2615, 2560, 2561, 2619, 2322, 2319, 2545, 2308, 2269, 2314, 2598, 2616, 2590, 2566, 2323, 2306, 2613, 2614, 2279, 2605, 2317, 2272, 2310, 2602, 2536, 2277, 2333, 2555, 2276, 2274, 2620, 2315, 2576, 2312, 2316, 2326, 2313, 2524, 2271, 2581, 2337, 2331, 2610, 2327, 2617, 2618, 2304, 2574, 2324, 2525, 2321, 2309, 2588, 2589]
+}, {
+    "Code": "MAR",
+    "Name": "Morocco",
+    "Region": "Middle East & North Africa",
+    "Development": "Lower middle income",
+    "Capital": "Rabat",
+    "Longitude": -6.8704,
+    "Latitude": 33.9905,
+    "Languages": [696, 1288, 512, 2059, 2454, 699, 374, 2215]
+}, {
+    "Code": "BOL",
+    "Name": "Bolivia",
+    "Region": "Latin America & Caribbean",
+    "Development": "Lower middle income",
+    "Capital": "La Paz",
+    "Longitude": -66.1936,
+    "Latitude": -13.9908,
+    "Languages": [1925, 573, 569, 661, 582, 580, 606, 1958, 1953, 621, 1919, 1924, 1928, 577, 666, 1954, 1914, 751, 1952, 633, 740, 584, 588, 635, 667, 1926, 1922, 634, 585, 1956, 1927, 1944, 755, 1943, 1659, 2093, 1911, 1951, 1960]
+}, {
+    "Code": "UKR",
+    "Name": "Ukraine",
+    "Region": "Europe & Central Asia",
+    "Development": "Lower middle income",
+    "Capital": "Kiev",
+    "Longitude": 30.5038,
+    "Latitude": 50.4536,
+    "Languages": [341, 358, 369, 1337, 342, 389, 401, 1078, 1523, 407, 1024, 405, 335, 348, 1336, 428, 1335]
+}, {
+    "Code": "ZAF",
+    "Name": "South Africa",
+    "Region": "Sub-Saharan Africa",
+    "Development": "Upper middle income",
+    "Capital": "Pretoria",
+    "Longitude": 28.1871,
+    "Latitude": -25.746,
+    "Languages": [1443, 1444, 135, 131, 136, 130, 1445, 133, 132, 1442]
+}, {
+    "Code": "ARG",
+    "Name": "Argentina",
+    "Region": "Latin America & Caribbean",
+    "Development": "Upper middle income",
+    "Capital": "Buenos Aires",
+    "Longitude": -58.4173,
+    "Latitude": -34.6118,
+    "Languages": [573, 639, 601, 662, 2060, 658, 1906, 588, 1905, 632, 1907, 646, 659, 1927, 2303, 1754, 2093, 1960]
+}, {
+    "Code": "CHL",
+    "Name": "Chile",
+    "Region": "Latin America & Caribbean",
+    "Development": "High income",
+    "Capital": "Santiago",
+    "Longitude": -70.6475,
+    "Latitude": -33.475,
+    "Languages": [573, 665, 650, 604, 711, 626, 755]
+}, {
+    "Code": "SLV",
+    "Name": "El Salvador",
+    "Region": "Latin America & Caribbean",
+    "Development": "Lower middle income",
+    "Capital": "San Salvador",
+    "Longitude": -89.2073,
+    "Latitude": 13.7034,
+    "Languages": [301, 1860]
+}, {
+    "Code": "HND",
+    "Name": "Honduras",
+    "Region": "Latin America & Caribbean",
+    "Development": "Lower middle income",
+    "Capital": "Tegucigalpa",
+    "Longitude": -87.4667,
+    "Latitude": 15.1333,
+    "Languages": [301, 1864, 1863, 1866, 1865, 1862, 1861, 2087]
+}, {
+    "Code": "SYR",
+    "Name": "Syrian Arab Republic",
+    "Region": "Middle East & North Africa",
+    "Development": "Low income",
+    "Capital": "Damascus",
+    "Longitude": 36.3119,
+    "Latitude": 33.5146,
+    "Languages": [2351, 2090, 1986, 7, 2232, 1064, 2217]
+}, {
+    "Code": "VEN",
+    "Name": "Venezuela, RB",
+    "Region": "Latin America & Caribbean",
+    "Development": "Upper middle income",
+    "Capital": "Caracas",
+    "Longitude": -69.8371,
+    "Latitude": 9.08165,
+    "Languages": [319, 1966, 317, 685, 312, 1978, 324, 303, 1977, 681, 321, 297, 302, 311, 325, 299, 1967, 326, 1981, 308, 1979, 310, 285, 1767, 316, 309, 300, 683, 1963, 1965, 1964, 296, 295, 1961]
+}, {
+    "Code": "BTN",
+    "Name": "Bhutan",
+    "Region": "South Asia",
+    "Development": "Lower middle income",
+    "Capital": "Thimphu",
+    "Longitude": 89.6177,
+    "Latitude": 27.5768,
+    "Languages": [1257, 592, 965, 1251, 1254, 1249, 1256, 444, 1255, 1248, 1246, 1250, 1252, 1245, 440, 1247, 2261, 1253, 1258]
+}, {
+    "Code": "UGA",
+    "Name": "Uganda",
+    "Region": "Sub-Saharan Africa",
+    "Development": "Low income",
+    "Capital": "Kampala",
+    "Longitude": 32.5729,
+    "Latitude": 0.314269,
+    "Languages": [105, 108, 104, 106, 107, 109]
+}, {
+    "Code": "NGA",
+    "Name": "Nigeria",
+    "Region": "Sub-Saharan Africa",
+    "Development": "Lower middle income",
+    "Capital": "Abuja",
+    "Longitude": 7.48906,
+    "Latitude": 9.05804,
+    "Languages": [31, 21, 26, 1389, 23, 22, 20, 1387, 1385, 28, 1391, 29, 1392, 1402, 1395, 1383, 1388, 1390, 1382, 25, 1393, 30, 32, 27, 24, 1386, 1329, 1384, 1380]
+}, {
+    "Code": "MYS",
+    "Name": "Malaysia",
+    "Region": "East Asia & Pacific",
+    "Development": "Upper middle income",
+    "Capital": "Kuala Lumpur",
+    "Longitude": 101.684,
+    "Latitude": 3.12433,
+    "Languages": [2281, 2621, 2286, 2267, 2268, 2265, 2290, 2264, 2288, 2289, 2291, 2282, 2295, 2292, 2285, 2293, 2287, 2284, 2283, 2296, 2294, 2469, 2297, 2298, 2468]
+}, {
+    "Code": "COL",
+    "Name": "Colombia",
+    "Region": "Latin America & Caribbean",
+    "Development": "Upper middle income",
+    "Capital": "Bogota",
+    "Longitude": -74.082,
+    "Latitude": 4.60987,
+    "Languages": [645, 305, 314, 1462, 2006, 289, 2003, 1997, 2054, 1877, 284, 1882, 1999, 2056, 2001, 568, 2010, 2055, 2353, 290, 736, 1913, 2000, 1909, 2051, 1910, 311, 299, 578, 308, 2057, 2002, 288, 1767, 316, 309, 593, 1853, 291, 605, 300, 322, 286, 599, 296, 742, 641, 292, 295, 2022, 2020, 2016, 2038, 2004, 2014, 2063, 2019, 1998, 2007, 2005, 2008, 2017, 2012, 2011, 2013, 2009, 2018, 2015, 2021]
+}, {
+    "Code": "TUN",
+    "Name": "Tunisia",
+    "Region": "Middle East & North Africa",
+    "Development": "Lower middle income",
+    "Capital": "Tunis",
+    "Longitude": 10.21,
+    "Latitude": 36.7899,
+    "Languages": [1291, 1292, 718]
+}, {
+    "Code": "BWA",
+    "Name": "Botswana",
+    "Region": "Sub-Saharan Africa",
+    "Development": "Upper middle income",
+    "Capital": "Gaborone",
+    "Longitude": 25.9201,
+    "Latitude": -24.6544,
+    "Languages": [129, 1401, 1406, 1420, 1409, 1419, 1376, 1396, 1377, 1441, 1405]
+}, {
+    "Code": "NCL",
+    "Name": "New Caledonia",
+    "Region": "East Asia & Pacific",
+    "Development": "High income",
+    "Capital": "Noum'ea",
+    "Longitude": 166.464,
+    "Latitude": -22.2677,
+    "Languages": [2161, 2160, 2159, 2158, 2494, 2495, 2498, 2499, 2492, 2500, 2497, 2491, 2489, 2496, 2490, 2501, 2502, 2503, 2493]
+}, {
+    "Code": "IRN",
+    "Name": "Iran, Islamic Rep.",
+    "Region": "Middle East & North Africa",
+    "Development": "Upper middle income",
+    "Capital": "Tehran",
+    "Longitude": 51.4447,
+    "Latitude": 35.6878,
+    "Languages": [2204, 1792, 1790, 1775, 2301, 2061, 1786, 1783, 1795, 2302, 1773, 1797, 1779, 1799, 2300, 1802, 1768, 1804, 1765, 847, 2232, 2485, 1515, 1495, 2203]
+}, {
+    "Code": "ESP",
+    "Name": "Spain",
+    "Region": "Europe & Central Asia",
+    "Development": "High income",
+    "Capital": "Madrid",
+    "Longitude": -3.70327,
+    "Latitude": 40.4167,
+    "Languages": [4, 390, 330, 332, 352, 415]
+}, {
+    "Code": "TGO",
+    "Name": "Togo",
+    "Region": "Sub-Saharan Africa",
+    "Development": "Low income",
+    "Capital": "Lome",
+    "Longitude": 1.2255,
+    "Latitude": 6.1228,
+    "Languages": [17]
+}, {
+    "Code": "GBR",
+    "Name": "United Kingdom",
+    "Region": "Europe & Central Asia",
+    "Development": "High income",
+    "Capital": "London",
+    "Longitude": -0.126236,
+    "Latitude": 51.5002,
+    "Languages": [361, 1342, 1341, 1340, 362, 411, 425, 410, 405, 339, 387, 428]
+}, {
+    "Code": "FIN",
+    "Name": "Finland",
+    "Region": "Europe & Central Asia",
+    "Development": "High income",
+    "Capital": "Helsinki",
+    "Longitude": 24.9525,
+    "Latitude": 60.1608,
+    "Languages": [371, 412, 359, 327, 396, 393, 405, 428]
+}, {
+    "Code": "DEU",
+    "Name": "Germany",
+    "Region": "Europe & Central Asia",
+    "Development": "High income",
+    "Capital": "Berlin",
+    "Longitude": 13.4115,
+    "Latitude": 52.5235,
+    "Languages": [403, 346, 394, 384, 424, 1020, 405, 383, 1019, 1011, 672, 1478, 1596, 428]
+}, {
+    "Code": "THA",
+    "Name": "Thailand",
+    "Region": "East Asia & Pacific",
+    "Development": "Upper middle income",
+    "Capital": "Bangkok",
+    "Longitude": 100.521,
+    "Latitude": 13.7308,
+    "Languages": [547, 1002, 1000, 1001, 1005, 544, 2193, 1004, 1007, 1003, 563, 545, 1009, 517, 2220, 1010, 1008, 539, 2401, 1990, 1006, 2221, 149, 2222, 2477, 1497]
+}, {
+    "Code": "SLE",
+    "Name": "Sierra Leone",
+    "Region": "Sub-Saharan Africa",
+    "Development": "Low income",
+    "Capital": "Freetown",
+    "Longitude": -13.2134,
+    "Latitude": 8.4821,
+    "Languages": [1295, 1314, 1315, 1316, 14]
+}, {
+    "Code": "LVA",
+    "Name": "Latvia",
+    "Region": "Europe & Central Asia",
+    "Development": "High income",
+    "Capital": "Riga",
+    "Longitude": 24.1048,
+    "Latitude": 56.9465,
+    "Languages": [1354, 376, 405, 335, 380, 428]
+}, {
+    "Code": "IRL",
+    "Name": "Ireland",
+    "Region": "Europe & Central Asia",
+    "Development": "High income",
+    "Capital": "Dublin",
+    "Longitude": -6.26749,
+    "Latitude": 53.3441,
+    "Languages": [1601, 362]
+}, {
+    "Code": "HUN",
+    "Name": "Hungary",
+    "Region": "Europe & Central Asia",
+    "Development": "High income",
+    "Capital": "Budapest",
+    "Longitude": 19.0408,
+    "Latitude": 47.4984,
+    "Languages": [1609, 1350, 407, 405, 1019, 428]
+}, {
+    "Code": "AZE",
+    "Name": "Azerbaijan",
+    "Region": "Europe & Central Asia",
+    "Development": "Upper middle income",
+    "Capital": "Baku",
+    "Longitude": 49.8932,
+    "Latitude": 40.3834,
+    "Languages": [1613, 1054, 1045, 1052, 1063, 1055, 1061, 1036, 1072, 1515, 1059]
+}, {
+    "Code": "PAN",
+    "Name": "Panama",
+    "Region": "Latin America & Caribbean",
+    "Development": "High income",
+    "Capital": "Panama City",
+    "Longitude": -79.5188,
+    "Latitude": 8.99427,
+    "Languages": [1904, 1900, 1903, 1899, 1902, 1901, 1897, 1898, 2094]
+}, {
+    "Code": "MEX",
+    "Name": "Mexico",
+    "Region": "Latin America & Caribbean",
+    "Development": "Upper middle income",
+    "Capital": "Mexico City",
+    "Longitude": -99.1276,
+    "Latitude": 19.427,
+    "Languages": [1370, 1359, 913, 942, 970, 1265, 990, 698, 1367, 943, 944, 726, 912, 1371, 1263, 1368, 1480, 1358, 1081, 1481, 1482, 948, 1262, 724, 1264, 723, 949, 966, 725, 1366, 967, 945, 911, 946, 934, 910, 914, 926, 968, 969, 937, 931, 950, 1500, 1029, 956, 935, 2719, 951, 1267, 1080, 1357, 982, 952, 1355, 980, 933, 1487, 1266, 936, 1488, 1282, 971, 953, 972, 146, 973, 1270, 1499, 924, 974, 1272, 920, 1287, 947, 1284, 1017, 921, 1018, 1360, 975, 923, 818, 922, 957, 1483, 991, 908, 1285, 1271, 1269, 976, 906, 954, 1283, 993, 851, 1486, 909, 992, 929, 1281, 2720, 694, 925, 1369, 994, 918, 1274, 1268, 1016, 1485, 1484, 917, 919, 1489, 1286, 939, 1278, 955, 1280, 1273, 1505, 941, 1279, 907, 1490, 1277, 1491, 1356, 905, 927, 915, 1504, 928, 940, 932, 904, 916, 1503, 1506, 930, 697]
+}, {
+    "Code": "VNM",
+    "Name": "Vietnam",
+    "Region": "East Asia & Pacific",
+    "Development": "Lower middle income",
+    "Capital": "Hanoi",
+    "Longitude": 105.825,
+    "Latitude": 21.0069,
+    "Languages": [527, 2230, 2231, 514, 2250, 552, 524, 2242, 532, 2197, 526, 542, 553, 2239, 2247, 541, 559, 2196, 531, 2243, 2248, 2244, 2238, 2246, 2240, 2229, 2236, 2465]
+}, {
+    "Code": "SUR",
+    "Name": "Suriname",
+    "Region": "Latin America & Caribbean",
+    "Development": "Upper middle income",
+    "Capital": "Paramaribo",
+    "Longitude": -55.1679,
+    "Latitude": 5.8232,
+    "Languages": [1674, 1989, 684, 315, 304, 670, 1993, 1994]
+}, {
+    "Code": "MNG",
+    "Name": "Mongolia",
+    "Region": "East Asia & Pacific",
+    "Development": "Lower middle income",
+    "Capital": "Ulaanbaatar",
+    "Longitude": 106.937,
+    "Latitude": 47.9129,
+    "Languages": [1450, 720, 675, 458, 1234, 1434, 2450]
+}, {
+    "Code": "JPN",
+    "Name": "Japan",
+    "Region": "East Asia & Pacific",
+    "Development": "High income",
+    "Capital": "Tokyo",
+    "Longitude": 139.77,
+    "Latitude": 35.67,
+    "Languages": [475, 1980, 1975, 1973, 1974, 1971, 1976, 1972]
+}, {
+    "Code": "CRI",
+    "Name": "Costa Rica",
+    "Region": "Latin America & Caribbean",
+    "Development": "Upper middle income",
+    "Capital": "San Jose",
+    "Longitude": -84.0089,
+    "Latitude": 9.63701,
+    "Languages": [1876, 1885, 1873, 1884, 1883, 1871, 1875, 643]
+}, {
+    "Code": "ISR",
+    "Name": "Israel",
+    "Region": "Middle East & North Africa",
+    "Development": "High income",
+    "Capital": "",
+    "Longitude": 35.2035,
+    "Latitude": 31.7717,
+    "Languages": [2176, 2175, 2174, 2172, 2173, 2451, 1064, 2452, 2165, 2211, 2453, 2216, 2217]
+}, {
+    "Code": "KHM",
+    "Name": "Cambodia",
+    "Region": "East Asia & Pacific",
+    "Development": "Lower middle income",
+    "Capital": "Phnom Penh",
+    "Longitude": 104.874,
+    "Latitude": 11.5556,
+    "Languages": [1991, 1000, 1001, 2228, 2227, 1004, 2226, 2225, 2459, 2463, 2466, 2467, 2457, 2458, 2460, 2461, 2462, 2464, 2465]
+}, {
+    "Code": "NOR",
+    "Name": "Norway",
+    "Region": "Europe & Central Asia",
+    "Development": "High income",
+    "Capital": "Oslo",
+    "Longitude": 10.7387,
+    "Latitude": 59.9138,
+    "Languages": [400, 412, 414, 386, 393, 428]
+}, {
+    "Code": "SWE",
+    "Name": "Sweden",
+    "Region": "Europe & Central Asia",
+    "Development": "High income",
+    "Capital": "Stockholm",
+    "Longitude": 18.0645,
+    "Latitude": 59.3327,
+    "Languages": [400, 419, 414, 386, 1597, 344, 393, 409, 428]
+}, {
+    "Code": "PLW",
+    "Name": "Palau",
+    "Region": "East Asia & Pacific",
+    "Development": "High income",
+    "Capital": "Koror",
+    "Longitude": 134.479,
+    "Latitude": 7.34194,
+    "Languages": [2263, 716]
+}, {
+    "Code": "LAO",
+    "Name": "Lao PDR",
+    "Region": "East Asia & Pacific",
+    "Development": "Lower middle income",
+    "Capital": "Vientiane",
+    "Longitude": 102.177,
+    "Latitude": 18.5826,
+    "Languages": [548, 1753, 514, 544, 516, 2195, 552, 2256, 2255, 546, 2251, 526, 542, 553, 563, 2258, 2252, 2253, 2257, 518, 525, 559, 2233, 2220, 2254, 1006, 2235, 2237, 2236, 2477, 2208, 2465]
+}, {
+    "Code": "PRY",
+    "Name": "Paraguay",
+    "Region": "Latin America & Caribbean",
+    "Development": "Upper middle income",
+    "Capital": "Asuncion",
+    "Longitude": -57.6362,
+    "Latitude": -25.3005,
+    "Languages": [2024, 1906, 588, 2187, 2189, 2186, 2052, 622, 623, 2053, 2188, 1960]
+}, {
+    "Code": "LTU",
+    "Name": "Lithuania",
+    "Region": "Europe & Central Asia",
+    "Development": "High income",
+    "Capital": "Vilnius",
+    "Longitude": 25.2799,
+    "Latitude": 54.6896,
+    "Languages": [379, 405, 335, 428]
+}, {
+    "Code": "TLS",
+    "Name": "Timor-Leste",
+    "Region": "East Asia & Pacific",
+    "Development": "Lower middle income",
+    "Capital": "Dili",
+    "Longitude": 125.567,
+    "Latitude": -8.56667,
+    "Languages": [2583, 2580, 2584, 2585, 2586, 2587]
+}, {
+    "Code": "AFG",
+    "Name": "Afghanistan",
+    "Region": "South Asia",
+    "Development": "Low income",
+    "Capital": "Kabul",
+    "Longitude": 69.1761,
+    "Latitude": 34.5228,
+    "Languages": [2483, 148, 2198, 2262, 1498, 773, 281, 1851, 1572, 895, 2482, 1440, 1837, 2299, 1439, 1850, 1595, 1378, 1379, 760, 2485, 2486, 2479]
+}, {
+    "Code": "MRT",
+    "Name": "Mauritania",
+    "Region": "Sub-Saharan Africa",
+    "Development": "Lower middle income",
+    "Capital": "Nouakchott",
+    "Longitude": -15.9824,
+    "Latitude": 18.2367,
+    "Languages": [2191, 1294, 717]
+}, {
+    "Code": "CAF",
+    "Name": "Central African Republic",
+    "Region": "Sub-Saharan Africa",
+    "Development": "Low income",
+    "Capital": "Bangui",
+    "Longitude": 21.6407,
+    "Latitude": 5.63056,
+    "Languages": [51, 1660, 1661, 1662, 1739]
+}, {
+    "Code": "ITA",
+    "Name": "Italy",
+    "Region": "Europe & Central Asia",
+    "Development": "High income",
+    "Capital": "Rome",
+    "Longitude": 12.4823,
+    "Latitude": 41.8955,
+    "Languages": [1344, 357, 1345, 351, 1511, 1348, 1339, 1349, 1343, 1614, 565, 1330, 1347, 366, 356, 408, 340, 365, 381, 353, 337, 377, 349, 399, 1021, 382, 405, 1023, 1022, 1019, 1011, 428]
+}, {
+    "Code": "PAK",
+    "Name": "Pakistan",
+    "Region": "South Asia",
+    "Development": "Lower middle income",
+    "Capital": "Islamabad",
+    "Longitude": 72.8,
+    "Latitude": 30.5167,
+    "Languages": [1841, 43, 2487, 2262, 1848, 1846, 1836, 1837, 1602, 1605, 1603, 1604, 1850, 1595, 1844, 2480, 1567, 1379, 1599, 2481, 1600, 2485, 2714, 2717, 2718, 2715, 2716]
+}, {
+    "Code": "GUY",
+    "Name": "Guyana",
+    "Region": "Latin America & Caribbean",
+    "Development": "Upper middle income",
+    "Capital": "Georgetown",
+    "Longitude": -58.1548,
+    "Latitude": 6.80461,
+    "Languages": [318, 302, 670, 307, 285, 320, 1983, 1965, 1964, 2062, 1992, 1982]
+}, {
+    "Code": "OMN",
+    "Name": "Oman",
+    "Region": "Middle East & North Africa",
+    "Development": "High income",
+    "Capital": "Muscat",
+    "Longitude": 58.5874,
+    "Latitude": 23.6105,
+    "Languages": [2088, 1821, 2178, 1950, 2068, 1962, 1620, 2177]
+}, {
+    "Code": "PYF",
+    "Name": "French Polynesia",
+    "Region": "East Asia & Pacific",
+    "Development": "High income",
+    "Capital": "Papeete",
+    "Longitude": -149.57,
+    "Latitude": -17.535,
+    "Languages": [706, 705, 708, 707]
+}, {
+    "Code": "GRC",
+    "Name": "Greece",
+    "Region": "Europe & Central Asia",
+    "Development": "High income",
+    "Capital": "Athens",
+    "Longitude": 23.7166,
+    "Latitude": 37.9792,
+    "Languages": [417, 388, 1352, 1078, 331, 405, 673, 2185, 374, 367]
+}, {
+    "Code": "LKA",
+    "Name": "Sri Lanka",
+    "Region": "South Asia",
+    "Development": "Upper middle income",
+    "Capital": "Colombo",
+    "Longitude": 79.8528,
+    "Latitude": 6.92148,
+    "Languages": [1593]
+}, {
+    "Code": "BGR",
+    "Name": "Bulgaria",
+    "Region": "Europe & Central Asia",
+    "Development": "Upper middle income",
+    "Capital": "Sofia",
+    "Longitude": 23.3238,
+    "Latitude": 42.7105,
+    "Languages": [671, 1448, 331, 1026, 405, 354, 374]
+}, {
+    "Code": "ROU",
+    "Name": "Romania",
+    "Region": "Europe & Central Asia",
+    "Development": "Upper middle income",
+    "Capital": "Bucharest",
+    "Longitude": 26.0979,
+    "Latitude": 44.4479,
+    "Languages": [671, 1448, 1513, 1351, 1475, 407, 1026, 405, 374, 391, 428]
+}, {
+    "Code": "YEM",
+    "Name": "Yemen, Rep.",
+    "Region": "Middle East & North Africa",
+    "Development": "Low income",
+    "Capital": "Sana'a",
+    "Longitude": 44.2075,
+    "Latitude": 15.352,
+    "Languages": [1821, 1949, 2179, 1620]
+}, {
+    "Code": "GNB",
+    "Name": "Guinea-Bissau",
+    "Region": "Sub-Saharan Africa",
+    "Development": "Low income",
+    "Capital": "Bissau",
+    "Longitude": -15.1804,
+    "Latitude": 11.8037,
+    "Languages": [10, 1308, 1306]
+}, {
+    "Code": "SEN",
+    "Name": "Senegal",
+    "Region": "Sub-Saharan Africa",
+    "Development": "Lower middle income",
+    "Capital": "Dakar",
+    "Longitude": -17.4734,
+    "Latitude": 14.7247,
+    "Languages": [10, 1299, 1467, 1311, 1305, 1301, 1297, 1298, 1303, 1296, 1300, 1307, 1310, 1302, 1304]
+}, {
+    "Code": "FSM",
+    "Name": "Micronesia, Fed. Sts.",
+    "Region": "East Asia & Pacific",
+    "Development": "Lower middle income",
+    "Capital": "Palikir",
+    "Longitude": 158.185,
+    "Latitude": 6.91771,
+    "Languages": [2347, 2625, 2343, 2342, 2340, 2344, 2346, 2348, 2345, 2338, 2349, 2341, 2339]
+}, {
+    "Code": "GEO",
+    "Name": "Georgia",
+    "Region": "Europe & Central Asia",
+    "Development": "Upper middle income",
+    "Capital": "Tbilisi",
+    "Longitude": 44.793,
+    "Latitude": 41.71,
+    "Languages": [1041, 1612, 1058, 1076, 1056, 1078, 1057, 1066, 1493, 2192, 1336]
+}, {
+    "Code": "GHA",
+    "Name": "Ghana",
+    "Region": "Sub-Saharan Africa",
+    "Development": "Lower middle income",
+    "Capital": "Accra",
+    "Longitude": -0.20795,
+    "Latitude": 5.57045,
+    "Languages": [18, 1322, 1323, 1327, 19]
+}, {
+    "Code": "GRL",
+    "Name": "Greenland",
+    "Region": "Europe & Central Asia",
+    "Development": "High income",
+    "Capital": "Nuuk",
+    "Longitude": -51.7214,
+    "Latitude": 64.1836,
+    "Languages": [143, 686, 687]
+}, {
+    "Code": "GAB",
+    "Name": "Gabon",
+    "Region": "Sub-Saharan Africa",
+    "Development": "Upper middle income",
+    "Capital": "Libreville",
+    "Longitude": 9.45162,
+    "Latitude": 0.38832,
+    "Languages": [49, 1746, 1745, 1747, 1748, 50, 1743, 1744]
+}, {
+    "Code": "TJK",
+    "Name": "Tajikistan",
+    "Region": "Europe & Central Asia",
+    "Development": "Low income",
+    "Capital": "Dushanbe",
+    "Longitude": 68.7864,
+    "Latitude": 38.5878,
+    "Languages": [1437, 1436, 1440, 1435, 1460, 1439, 1438, 1378, 1379, 760, 2486]
+}, {
+    "Code": "GTM",
+    "Name": "Guatemala",
+    "Region": "Latin America & Caribbean",
+    "Development": "Upper middle income",
+    "Capital": "Guatemala City",
+    "Longitude": -90.5328,
+    "Latitude": 14.6248,
+    "Languages": [1788, 1830, 1833, 1823, 1834, 1832, 1829, 1828, 1780, 1824, 1784, 1800, 1778, 1787, 1831, 1777, 1791, 1825, 1826, 1801, 1822, 1827, 1803]
+}, {
+    "Code": "CYP",
+    "Name": "Cyprus",
+    "Region": "Europe & Central Asia",
+    "Development": "High income",
+    "Capital": "Nicosia",
+    "Longitude": 33.3736,
+    "Latitude": 35.1676,
+    "Languages": [343]
+}, {
+    "Code": "BEN",
+    "Name": "Benin",
+    "Region": "Sub-Saharan Africa",
+    "Development": "Low income",
+    "Capital": "Porto-Novo",
+    "Longitude": 2.6323,
+    "Latitude": 6.4779,
+    "Languages": [1328]
+}, {
+    "Code": "LBY",
+    "Name": "Libya",
+    "Region": "Middle East & North Africa",
+    "Development": "Upper middle income",
+    "Capital": "Tripoli",
+    "Longitude": 13.1072,
+    "Latitude": 32.8578,
+    "Languages": [1290, 5, 1293, 1712, 1970, 2217]
+}, {
+    "Code": "DZA",
+    "Name": "Algeria",
+    "Region": "Middle East & North Africa",
+    "Development": "Upper middle income",
+    "Capital": "Algiers",
+    "Longitude": 3.05097,
+    "Latitude": 36.7397,
+    "Languages": [2, 2183, 1289, 2162, 1995, 2181, 2180, 2163, 655, 1996, 374, 2182, 3]
+}, {
+    "Code": "GNQ",
+    "Name": "Equatorial Guinea",
+    "Region": "Sub-Saharan Africa",
+    "Development": "Upper middle income",
+    "Capital": "Malabo",
+    "Longitude": 8.7741,
+    "Latitude": 3.7523,
+    "Languages": [1749, 1743, 1742]
+}, {
+    "Code": "MLI",
+    "Name": "Mali",
+    "Region": "Sub-Saharan Africa",
+    "Development": "Low income",
+    "Capital": "Bamako",
+    "Longitude": -7.50034,
+    "Latitude": 13.5667,
+    "Languages": [1477, 701]
+}, {
+    "Code": "COG",
+    "Name": "Congo, Rep.",
+    "Region": "Sub-Saharan Africa",
+    "Development": "Lower middle income",
+    "Capital": "Brazzaville",
+    "Longitude": 15.2662,
+    "Latitude": -4.2767,
+    "Languages": [1664, 1744]
+}, {
+    "Code": "URY",
+    "Name": "Uruguay",
+    "Region": "Latin America & Caribbean",
+    "Development": "High income",
+    "Capital": "Montevideo",
+    "Longitude": -56.0675,
+    "Latitude": -34.8941,
+    "Languages": [1907]
+}, {
+    "Code": "FJI",
+    "Name": "Fiji",
+    "Region": "East Asia & Pacific",
+    "Development": "Upper middle income",
+    "Capital": "Suva",
+    "Longitude": 178.399,
+    "Latitude": -18.1149,
+    "Languages": [2626]
+}, {
+    "Code": "ERI",
+    "Name": "Eritrea",
+    "Region": "Sub-Saharan Africa",
+    "Development": "Low income",
+    "Capital": "Asmara",
+    "Longitude": 38.9183,
+    "Latitude": 15.3315,
+    "Languages": [76]
+}, {
+    "Code": "BLZ",
+    "Name": "Belize",
+    "Region": "Latin America & Caribbean",
+    "Development": "Upper middle income",
+    "Capital": "Belmopan",
+    "Longitude": -88.7713,
+    "Latitude": 17.2534,
+    "Languages": [1752, 1750, 1751, 294]
+}, {
+    "Code": "MKD",
+    "Name": "North Macedonia",
+    "Region": "Europe & Central Asia",
+    "Development": "Upper middle income",
+    "Capital": "Skopje",
+    "Longitude": 21.4361,
+    "Latitude": 42.0024,
+    "Languages": [388, 1064, 331, 1026, 405, 673, 374]
+}, {
+    "Code": "NAM",
+    "Name": "Namibia",
+    "Region": "Sub-Saharan Africa",
+    "Development": "Upper middle income",
+    "Capital": "Windhoek",
+    "Longitude": 17.0931,
+    "Latitude": -22.5648,
+    "Languages": [128]
+}, {
+    "Code": "BGD",
+    "Name": "Bangladesh",
+    "Region": "South Asia",
+    "Development": "Lower middle income",
+    "Capital": "Dhaka",
+    "Longitude": 90.4113,
+    "Latitude": 23.7055,
+    "Languages": [1138, 1190, 1594, 1568, 1228]
+}, {
+    "Code": "NRU",
+    "Name": "Nauru",
+    "Region": "East Asia & Pacific",
+    "Development": "Upper middle income",
+    "Capital": "Yaren District",
+    "Longitude": 166.920867,
+    "Latitude": -0.5477,
+    "Languages": [2624, 2339]
+}, {
+    "Code": "UZB",
+    "Name": "Uzbekistan",
+    "Region": "Europe & Central Asia",
+    "Development": "Lower middle income",
+    "Capital": "Tashkent",
+    "Longitude": 69.269,
+    "Latitude": 41.3052,
+    "Languages": [1439, 1678, 2486]
+}, {
+    "Code": "BFA",
+    "Name": "Burkina Faso",
+    "Region": "Sub-Saharan Africa",
+    "Development": "Low income",
+    "Capital": "Ouagadougou",
+    "Longitude": -1.53395,
+    "Latitude": 12.3605,
+    "Languages": [1318]
+}, {
+    "Code": "TKM",
+    "Name": "Turkmenistan",
+    "Region": "Europe & Central Asia",
+    "Development": "Upper middle income",
+    "Capital": "Ashgabat",
+    "Longitude": 58.3794,
+    "Latitude": 37.9509,
+    "Languages": [1079]
+}, {
+    "Code": "TUV",
+    "Name": "Tuvalu",
+    "Region": "East Asia & Pacific",
+    "Development": "Upper middle income",
+    "Capital": "Funafuti",
+    "Longitude": 179.089567,
+    "Latitude": -8.6314877,
+    "Languages": [714]
+}, {
+    "Code": "ABW",
+    "Name": "Aruba",
+    "Region": "Latin America & Caribbean",
+    "Development": "High income",
+    "Capital": "Oranjestad",
+    "Longitude": -70.0167,
+    "Latitude": 12.5167,
+    "Languages": []
+}, {
+    "Code": "SRB",
+    "Name": "Serbia",
+    "Region": "Europe & Central Asia",
+    "Development": "Upper middle income",
+    "Capital": "Belgrade",
+    "Longitude": 20.4656,
+    "Latitude": 44.8024,
+    "Languages": [1513, 421, 331, 1026, 405, 374]
+}, {
+    "Code": "AUT",
+    "Name": "Austria",
+    "Region": "Europe & Central Asia",
+    "Development": "High income",
+    "Capital": "Vienna",
+    "Longitude": 16.3798,
+    "Latitude": 48.2201,
+    "Languages": [1350, 405, 1019, 1011, 428]
+}, {
+    "Code": "SVK",
+    "Name": "Slovak Republic",
+    "Region": "Europe & Central Asia",
+    "Development": "High income",
+    "Capital": "Bratislava",
+    "Longitude": 17.1073,
+    "Latitude": 48.1484,
+    "Languages": [1350, 407, 1024, 405, 428]
+}, {
+    "Code": "CHE",
+    "Name": "Switzerland",
+    "Region": "Europe & Central Asia",
+    "Development": "High income",
+    "Capital": "Bern",
+    "Longitude": 7.44821,
+    "Latitude": 46.948,
+    "Languages": [406, 366, 382, 405, 1019, 1522, 1011, 428]
+}, {
+    "Code": "NER",
+    "Name": "Niger",
+    "Region": "Sub-Saharan Africa",
+    "Development": "Low income",
+    "Capital": "Niamey",
+    "Longitude": 2.1073,
+    "Latitude": 13.514,
+    "Languages": [2210, 2065]
+}, {
+    "Code": "KAZ",
+    "Name": "Kazakhstan",
+    "Region": "Europe & Central Asia",
+    "Development": "Upper middle income",
+    "Capital": "Astana",
+    "Longitude": 71.4382,
+    "Latitude": 51.1879,
+    "Languages": [1670]
+}, {
+    "Code": "KGZ",
+    "Name": "Kyrgyz Republic",
+    "Region": "Europe & Central Asia",
+    "Development": "Lower middle income",
+    "Capital": "Bishkek",
+    "Longitude": 74.6057,
+    "Latitude": 42.8851,
+    "Languages": [1670, 1434]
+}, {
+    "Code": "LSO",
+    "Name": "Lesotho",
+    "Region": "Sub-Saharan Africa",
+    "Development": "Lower middle income",
+    "Capital": "Maseru",
+    "Longitude": 27.7167,
+    "Latitude": -29.5208,
+    "Languages": [134]
+}, {
+    "Code": "EST",
+    "Name": "Estonia",
+    "Region": "Europe & Central Asia",
+    "Development": "High income",
+    "Capital": "Tallinn",
+    "Longitude": 24.7586,
+    "Latitude": 59.4392,
+    "Languages": [422, 405, 428]
+}, {
+    "Code": "FRO",
+    "Name": "Faroe Islands",
+    "Region": "Europe & Central Asia",
+    "Development": "High income",
+    "Capital": "Torshavn",
+    "Longitude": -6.91181,
+    "Latitude": 61.8926,
+    "Languages": [1027]
+}, {
+    "Code": "GUM",
+    "Name": "Guam",
+    "Region": "East Asia & Pacific",
+    "Development": "High income",
+    "Capital": "Agana",
+    "Longitude": 144.794,
+    "Latitude": 13.4443,
+    "Languages": [2350]
+}, {
+    "Code": "NZL",
+    "Name": "New Zealand",
+    "Region": "East Asia & Pacific",
+    "Development": "High income",
+    "Capital": "Wellington",
+    "Longitude": 174.776,
+    "Latitude": -41.2865,
+    "Languages": [702]
+}, {
+    "Code": "FRA",
+    "Name": "France",
+    "Region": "Europe & Central Asia",
+    "Development": "High income",
+    "Capital": "Paris",
+    "Longitude": 2.35097,
+    "Latitude": 48.8566,
+    "Languages": [366, 404, 340, 355, 365, 336, 352, 424, 378, 375, 1947, 415, 398, 377, 1476, 405, 402, 1519, 1520, 1521, 1522, 1011, 392, 333, 1478, 428]
+}, {
+    "Code": "PRT",
+    "Name": "Portugal",
+    "Region": "Europe & Central Asia",
+    "Development": "High income",
+    "Capital": "Lisbon",
+    "Longitude": -9.13552,
+    "Latitude": 38.7072,
+    "Languages": [332]
+}, {
+    "Code": "MDA",
+    "Name": "Moldova",
+    "Region": "Europe & Central Asia",
+    "Development": "Lower middle income",
+    "Capital": "Chisinau",
+    "Longitude": 28.8497,
+    "Latitude": 47.0167,
+    "Languages": [389, 428]
+}, {
+    "Code": "LBN",
+    "Name": "Lebanon",
+    "Region": "Middle East & North Africa",
+    "Development": "Upper middle income",
+    "Capital": "Beirut",
+    "Longitude": 35.5134,
+    "Latitude": 33.8872,
+    "Languages": [7, 2217]
+}, {
+    "Code": "ARM",
+    "Name": "Armenia",
+    "Region": "Europe & Central Asia",
+    "Development": "Upper middle income",
+    "Capital": "Yerevan",
+    "Longitude": 44.509,
+    "Latitude": 40.1596,
+    "Languages": [2232, 1078]
+}, {
+    "Code": "JOR",
+    "Name": "Jordan",
+    "Region": "Middle East & North Africa",
+    "Development": "Upper middle income",
+    "Capital": "Amman",
+    "Longitude": 35.9263,
+    "Latitude": 31.9497,
+    "Languages": [1064, 2217]
+}, {
+    "Code": "NLD",
+    "Name": "Netherlands",
+    "Region": "Europe & Central Asia",
+    "Development": "High income",
+    "Capital": "Amsterdam",
+    "Longitude": 4.89095,
+    "Latitude": 52.3738,
+    "Languages": [426, 1476, 1020, 405, 383, 428]
+}, {
+    "Code": "BEL",
+    "Name": "Belgium",
+    "Region": "Europe & Central Asia",
+    "Development": "High income",
+    "Capital": "Brussels",
+    "Longitude": 4.36761,
+    "Latitude": 50.8371,
+    "Languages": [424, 1947, 398, 1476, 1020, 1519, 1520, 428]
+}, {
+    "Code": "LUX",
+    "Name": "Luxembourg",
+    "Region": "Europe & Central Asia",
+    "Development": "High income",
+    "Capital": "Luxembourg",
+    "Longitude": 6.1296,
+    "Latitude": 49.61,
+    "Languages": [424, 1947, 428]
+}, {
+    "Code": "ALB",
+    "Name": "Albania",
+    "Region": "Europe & Central Asia",
+    "Development": "Upper middle income",
+    "Capital": "Tirane",
+    "Longitude": 19.8172,
+    "Latitude": 41.3317,
+    "Languages": [331, 1026, 405, 374]
+}, {
+    "Code": "BRB",
+    "Name": "Barbados",
+    "Region": "Latin America & Caribbean",
+    "Development": "High income",
+    "Capital": "Bridgetown",
+    "Longitude": -59.6105,
+    "Latitude": 13.0935,
+    "Languages": [1523, 405, 335, 428]
+}, {
+    "Code": "MCO",
+    "Name": "Monaco",
+    "Region": "Europe & Central Asia",
+    "Development": "High income",
+    "Capital": "Monaco",
+    "Longitude": 7.41891,
+    "Latitude": 43.7325,
+    "Languages": [377]
+}, {
+    "Code": "SMR",
+    "Name": "San Marino",
+    "Region": "Europe & Central Asia",
+    "Development": "High income",
+    "Capital": "San Marino",
+    "Longitude": 12.4486,
+    "Latitude": 43.9322,
+    "Languages": [349]
+}, {
+    "Code": "SVN",
+    "Name": "Slovenia",
+    "Region": "Europe & Central Asia",
+    "Development": "High income",
+    "Capital": "Ljubljana",
+    "Longitude": 14.5044,
+    "Latitude": 46.0546,
+    "Languages": [1021, 405, 1346]
+}, {
+    "Code": "BIH",
+    "Name": "Bosnia and Herzegovina",
+    "Region": "Europe & Central Asia",
+    "Development": "Upper middle income",
+    "Capital": "Sarajevo",
+    "Longitude": 18.4214,
+    "Latitude": 43.8607,
+    "Languages": [405, 374]
+}, {
+    "Code": "CZE",
+    "Name": "Czech Republic",
+    "Region": "Europe & Central Asia",
+    "Development": "High income",
+    "Capital": "Prague",
+    "Longitude": 14.4205,
+    "Latitude": 50.0878,
+    "Languages": [405, 1019, 1596, 428]
+}, {
+    "Code": "MNE",
+    "Name": "Montenegro",
+    "Region": "Europe & Central Asia",
+    "Development": "Upper middle income",
+    "Capital": "Podgorica",
+    "Longitude": 19.2595,
+    "Latitude": 42.4602,
+    "Languages": [405]
+}, {
+    "Code": "DNK",
+    "Name": "Denmark",
+    "Region": "Europe & Central Asia",
+    "Development": "High income",
+    "Capital": "Copenhagen",
+    "Longitude": 12.5681,
+    "Latitude": 55.6763,
+    "Languages": [383, 672, 409, 428]
+}, {
+    "Code": "LIE",
+    "Name": "Liechtenstein",
+    "Region": "Europe & Central Asia",
+    "Development": "High income",
+    "Capital": "Vaduz",
+    "Longitude": 9.52148,
+    "Latitude": 47.1411,
+    "Languages": [1011]
+}, {
+    "Code": "PSE",
+    "Name": "West Bank and Gaza",
+    "Region": "Middle East & North Africa",
+    "Development": "Lower middle income",
+    "Capital": "",
+    "Longitude": "",
+    "Latitude": "",
+    "Languages": [2217]
+}, {
+    "Code": "KOR",
+    "Name": "Korea, Rep.",
+    "Region": "East Asia & Pacific",
+    "Development": "High income",
+    "Capital": "Seoul",
+    "Longitude": 126.957,
+    "Latitude": 37.5323,
+    "Languages": [2724]
+}]

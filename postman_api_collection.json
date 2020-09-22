@@ -1,0 +1,459 @@
+{
+	"id": "27b8214a-bd01-44fd-bb47-db0c013fd385",
+	"name": "The Last Word API Calls",
+	"allTests": [],
+	"timestamp": "2019-10-24T18:02:03.577Z",
+	"collection_id": "9a28d01f-8e60-46c3-b030-0e2f6704d480",
+	"folder_id": 0,
+	"target_type": "collection",
+	"environment_id": "0",
+	"data": [],
+	"delay": 0,
+	"count": 1,
+	"collection": {
+		"id": "9a28d01f-8e60-46c3-b030-0e2f6704d480",
+		"name": "The Last Word API Calls",
+		"description": "",
+		"auth": null,
+		"events": [
+			{
+				"listen": "prerequest",
+				"script": {
+					"id": "a3f17bd5-b32d-4424-9e53-713d022347f2",
+					"type": "text/javascript",
+					"exec": [
+						""
+					]
+				}
+			},
+			{
+				"listen": "test",
+				"script": {
+					"id": "95f1db5a-0755-493a-a3a0-0517d6376ec3",
+					"type": "text/javascript",
+					"exec": [
+						"pm.test(\"response is ok\", function () {",
+						"    pm.response.to.have.status(200);",
+						"});",
+						"",
+						"pm.test(\"response should be okay to process\", function () { ",
+						"    pm.response.to.not.be.error; ",
+						"    pm.response.to.not.have.jsonBody(\"error\"); ",
+						"});",
+						" ",
+						"pm.test(\"response must be valid and have a body\", function () {",
+						"     pm.response.to.be.ok;",
+						"     pm.response.to.be.withBody;",
+						"});",
+						"",
+						"pm.test(\"response must have all members\", function () { ",
+						"    var jsonData = pm.response.json();",
+						"    if(jsonData.length){",
+						"        pm.expect(jsonData.length).to.eql(5)",
+						"    } else {",
+						"         has = 'Data' in jsonData && 'Meta' in jsonData",
+						"         pm.expect(has).to.be.true;",
+						"    }",
+						"});",
+						"",
+						"pm.test(\"check if all the fields specified in Meta are in Data\", function() {",
+						"    var json = pm.response.json();",
+						"    meta = json['Meta']",
+						"    if(meta){",
+						"        let fields = meta['fields']",
+						"        fields.forEach(function(field){",
+						"            if (field != \"Status Languages\"){",
+						"                pm.expect(field in json['Data']).to.be.true;",
+						"        }",
+						"    })",
+						"    }",
+						"});",
+						"",
+						"pm.test(\"response schema is correct\", function() {",
+						"    var schema = {",
+						"        \"additions\": {",
+						"            \"type\": \"integer\"",
+						"        },",
+						"        \"avatar_url\": {",
+						"            \"type\": \"string\"",
+						"        }, ",
+						"        \"commits\": {",
+						"            \"type\": \"integer\"",
+						"        }, ",
+						"        \"deletions\": {",
+						"            \"type\": \"integer\"",
+						"        },",
+						"        \"email\": {",
+						"            \"type\": \"string\"",
+						"        },",
+						"        \"name\": {",
+						"            \"type\": \"string\"",
+						"        },",
+						"    };",
+						"    var jsonData = pm.response.json();",
+						"    if(jsonData.length){",
+						"          pm.expect(tv4.validate(jsonData[0], schema)).to.be.true;",
+						"    }",
+						"});",
+						" ",
+						" "
+					]
+				}
+			}
+		],
+		"variables": [],
+		"order": [
+			"1e408482-460e-4040-9f7c-fece2eac2ca2",
+			"1554b489-5a76-4422-a439-4b67bcb5896c",
+			"5a00c4a7-1fc7-4308-8cb0-7d4a7e3b5fb2"
+		],
+		"folders_order": [],
+		"owner": "4350123",
+		"favorite": false,
+		"protocolProfileBehavior": {}
+	},
+	"folder": null,
+	"environment": null,
+	"globals": [],
+	"results": [
+		{
+			"name": "META",
+			"id": "1e408482-460e-4040-9f7c-fece2eac2ca2",
+			"url": "https://the-last-word-backend-254800.appspot.com/meta",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"tests": {
+				"response is ok": true,
+				"response should be okay to process": true,
+				"response must be valid and have a body": true,
+				"response must have all members": true,
+				"check if all the fields specified in Meta are in Data": true,
+				"response schema is correct": true
+			},
+			"testPassFailCounts": {
+				"response is ok": {
+					"pass": 1,
+					"fail": 0
+				},
+				"response should be okay to process": {
+					"pass": 1,
+					"fail": 0
+				},
+				"response must be valid and have a body": {
+					"pass": 1,
+					"fail": 0
+				},
+				"response must have all members": {
+					"pass": 1,
+					"fail": 0
+				},
+				"check if all the fields specified in Meta are in Data": {
+					"pass": 1,
+					"fail": 0
+				},
+				"response schema is correct": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				"1577"
+			],
+			"allTests": [
+				{
+					"response is ok": true,
+					"response should be okay to process": true,
+					"response must be valid and have a body": true,
+					"response must have all members": true,
+					"check if all the fields specified in Meta are in Data": true,
+					"response schema is correct": true
+				}
+			],
+			"time": "1577",
+			"totalRequestTime": "1577",
+			"iterationResults": {}
+		},
+		{
+			"name": "LANGUAGE_DATA",
+			"id": "1554b489-5a76-4422-a439-4b67bcb5896c",
+			"url": "https://the-last-word-backend-254800.appspot.com/language/eng",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"tests": {
+				"response is ok": true,
+				"response should be okay to process": true,
+				"response must be valid and have a body": true,
+				"response must have all members": true,
+				"check if all the fields specified in Meta are in Data": true,
+				"response schema is correct": true,
+				"response must have Data and Meta Section": true
+			},
+			"testPassFailCounts": {
+				"response is ok": {
+					"pass": 1,
+					"fail": 0
+				},
+				"response should be okay to process": {
+					"pass": 1,
+					"fail": 0
+				},
+				"response must be valid and have a body": {
+					"pass": 1,
+					"fail": 0
+				},
+				"response must have all members": {
+					"pass": 1,
+					"fail": 0
+				},
+				"check if all the fields specified in Meta are in Data": {
+					"pass": 1,
+					"fail": 0
+				},
+				"response schema is correct": {
+					"pass": 1,
+					"fail": 0
+				},
+				"response must have Data and Meta Section": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				"2201"
+			],
+			"allTests": [
+				{
+					"response is ok": true,
+					"response should be okay to process": true,
+					"response must be valid and have a body": true,
+					"response must have all members": true,
+					"check if all the fields specified in Meta are in Data": true,
+					"response schema is correct": true,
+					"response must have Data and Meta Section": true
+				}
+			],
+			"time": "2201",
+			"totalRequestTime": "2201",
+			"iterationResults": {}
+		},
+		{
+			"name": "COUNTRY_DATA",
+			"id": "5a00c4a7-1fc7-4308-8cb0-7d4a7e3b5fb2",
+			"url": "https://the-last-word-backend-254800.appspot.com/country/IN",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"tests": {
+				"response is ok": true,
+				"response should be okay to process": true,
+				"response must be valid and have a body": true,
+				"response must have all members": true,
+				"check if all the fields specified in Meta are in Data": true,
+				"response schema is correct": true,
+				"response must have Data and Meta Section": true
+			},
+			"testPassFailCounts": {
+				"response is ok": {
+					"pass": 1,
+					"fail": 0
+				},
+				"response should be okay to process": {
+					"pass": 1,
+					"fail": 0
+				},
+				"response must be valid and have a body": {
+					"pass": 1,
+					"fail": 0
+				},
+				"response must have all members": {
+					"pass": 1,
+					"fail": 0
+				},
+				"check if all the fields specified in Meta are in Data": {
+					"pass": 1,
+					"fail": 0
+				},
+				"response schema is correct": {
+					"pass": 1,
+					"fail": 0
+				},
+				"response must have Data and Meta Section": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				"4432"
+			],
+			"allTests": [
+				{
+					"response is ok": true,
+					"response should be okay to process": true,
+					"response must be valid and have a body": true,
+					"response must have all members": true,
+					"check if all the fields specified in Meta are in Data": true,
+					"response schema is correct": true,
+					"response must have Data and Meta Section": true
+				}
+			],
+			"time": "4432",
+			"totalRequestTime": "4432",
+			"iterationResults": {}
+		}
+	],
+	"totalPass": 33,
+	"totalFail": 0,
+	"totalTime": 8210,
+	"lifecycle": "done",
+	"requests": [
+		{
+			"name": "META",
+			"id": "1e408482-460e-4040-9f7c-fece2eac2ca2",
+			"url": "https://the-last-word-backend-254800.appspot.com/meta",
+			"time": "2019-10-24T18:02:03.577Z",
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"testPassFailCounts": {
+				"response is ok": {
+					"pass": 1,
+					"fail": 0
+				},
+				"response should be okay to process": {
+					"pass": 1,
+					"fail": 0
+				},
+				"response must be valid and have a body": {
+					"pass": 1,
+					"fail": 0
+				},
+				"response must have all members": {
+					"pass": 1,
+					"fail": 0
+				},
+				"check if all the fields specified in Meta are in Data": {
+					"pass": 1,
+					"fail": 0
+				},
+				"response schema is correct": {
+					"pass": 1,
+					"fail": 0
+				}
+			}
+		},
+		{
+			"name": "LANGUAGE_DATA",
+			"id": "1554b489-5a76-4422-a439-4b67bcb5896c",
+			"url": "https://the-last-word-backend-254800.appspot.com/language/eng",
+			"time": "2019-10-24T18:02:03.577Z",
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"testPassFailCounts": {
+				"response is ok": {
+					"pass": 1,
+					"fail": 0
+				},
+				"response should be okay to process": {
+					"pass": 1,
+					"fail": 0
+				},
+				"response must be valid and have a body": {
+					"pass": 1,
+					"fail": 0
+				},
+				"response must have all members": {
+					"pass": 1,
+					"fail": 0
+				},
+				"check if all the fields specified in Meta are in Data": {
+					"pass": 1,
+					"fail": 0
+				},
+				"response schema is correct": {
+					"pass": 1,
+					"fail": 0
+				},
+				"response must have Data and Meta Section": {
+					"pass": 1,
+					"fail": 0
+				}
+			}
+		},
+		{
+			"name": "COUNTRY_DATA",
+			"id": "5a00c4a7-1fc7-4308-8cb0-7d4a7e3b5fb2",
+			"url": "https://the-last-word-backend-254800.appspot.com/country/IN",
+			"time": "2019-10-24T18:02:03.577Z",
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"testPassFailCounts": {
+				"response is ok": {
+					"pass": 1,
+					"fail": 0
+				},
+				"response should be okay to process": {
+					"pass": 1,
+					"fail": 0
+				},
+				"response must be valid and have a body": {
+					"pass": 1,
+					"fail": 0
+				},
+				"response must have all members": {
+					"pass": 1,
+					"fail": 0
+				},
+				"check if all the fields specified in Meta are in Data": {
+					"pass": 1,
+					"fail": 0
+				},
+				"response schema is correct": {
+					"pass": 1,
+					"fail": 0
+				},
+				"response must have Data and Meta Section": {
+					"pass": 1,
+					"fail": 0
+				}
+			}
+		}
+	],
+	"synced": false
+}

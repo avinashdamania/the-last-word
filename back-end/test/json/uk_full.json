@@ -1,0 +1,116 @@
+{
+    "Data": {
+        "Deaf Population": "909,000–3,525,000 (1998)",
+        "General References": "Campbell and King 2011, Comrie 1987, Hancock 1974, Hancock 1984b, McCrum et al 1986, Stephens 1976, Trudgill 1984",
+        "Immigrant Languages": "Afrikaans (11,200), Akan (18,400), Amharic (8,620), Arabic (159,000), Assyrian Neo-Aramaic (5,000), Bengali (221,000), Bulgarian (38,500), Czech (29,400), Danish (10,000), Dutch (26,700), Eastern Punjabi (224,000), Finnish (6,600), French (147,000), Ganda (3,450), Greek (50,200), Gujarati (213,000), Hebrew (6,200), Hindi (45,800), Hungarian (45,400), Igbo (7,950), Iranian Persian (76,400), Italian (92,200), Japanese (27,800), Korean (15,200), Krio (1,190), Leeward Caribbean Creole English, Lingala (4,910), Lithuanian (91,700), Malay (12,600), Malayalam (37,400), Maltese (3,110), Mandarin Chinese (22,000), Marathi (6,410), Morisyen (1,000), Nepali (52,800), Northern Kurdish (48,200), Northern Pashto, Northern Zazaki, Pahari-Potwari (21,900), Parsi, Polish (618,000), Portuguese (135,000), Romanian (67,600), Russian (69,000), Saraiki, Shona (21,400), Sinhala (14,700), Slovak (52,700), Slovene (1,240), Somali (85,900), Southern Pashto (40,300), Spanish (134,000), Standard Estonian (3,400), Standard German (77,200), Standard Latvian (32,700), Swahili (15,100), Swedish (19,200), Sylheti (300,000), Tagalog (72,200), Tamil (101,000), Telugu (14,700), Thai (27,400), Tigrigna (12,400), Turkish (99,400), Ukrainian (6,580), Urdu (269,000), Vietnamese (15,200), Western Punjabi (48,900), Yoruba (14,900), Yue Chinese (44,400)",
+        "International Conventions": "CDE (1962), CPPDCE (2007), FCPNM (1998), ICCPR (1976), UNDRIP (2007)",
+        "Language Counts": "The number of individual languages listed for United Kingdom is 13. All are living languages. Of these, 11 are indigenous and 2 are non-indigenous. Furthermore, 3 are institutional, 2 are developing, 3 are vigorous, 2 are in trouble, and 3 are dying.",
+        "Literacy Rate": "99% (2011 USDS)",
+        "Maps": [{
+            "map_url": "https://www.ethnologue.com/sites/default/files/styles/original/public/maps/22/IEGB_rgb.png",
+            "title": "Ireland and United Kingdom"
+        }],
+        "Official Name": "United Kingdom of Great Britain and Northern Ireland",
+        "Population Full": "65,100,000 (2017 World Bank)",
+        "Principal Languages": "English",
+        "Products": "See full country digest.",
+        "Spoken Languages": [{
+                "abreviation": "ENG",
+                "data": "De facto national language.  58,100,000 in United Kingdom, all users. L1 users: 56,600,000 in United Kingdom (2011 census). England and Wales 49,800,000, Scotland 5,118,000, Northern Ireland 1,681,000. L2 users: 1,500,000 (Crystal 2003a). Total users in all countries: 1,132,366,680 (as L1: 379,007,140; as L2: 753,359,540).",
+                "name": "English",
+                "status": "1 (National)"
+            },
+            {
+                "abreviation": "GLA",
+                "data": "Statutory provincial language in Scotland (2005, Gaelic Language (Scotland) Act).  57,400 in United Kingdom (2011 census). Over 87,000 people with any Gaelic language skills (2011 census). Total users in all countries: 60,130.",
+                "name": "Scottish Gaelic",
+                "status": "2 (Provincial)"
+            },
+            {
+                "abreviation": "CYM",
+                "data": "Statutory provincial language in Wales (1993, Welsh Language Act, C 38).  562,000 in United Kingdom (2011 census), decreasing. 32,700 monolinguals (1971 census). Total users in all countries: 573,050.",
+                "name": "Welsh",
+                "status": "2 (Provincial)"
+            },
+            {
+                "abreviation": "BFI",
+                "data": "327,000, all users. L1 users: 77,000 (2014 EUD). L2 users: 250,000 (2013 K. Crombie Smith).",
+                "name": "British Sign Language",
+                "status": "5 (Developing)"
+            },
+            {
+                "abreviation": "SCO",
+                "data": "1,589,200 in United Kingdom, all users. L1 users: 89,200 in United Kingdom (2011 census). 55,800 in Scotland, 33,400 in Northern Ireland. L2 users: 1,500,000 (2001 census). Total users in all countries: 1,599,200 (as L1: 99,200; as L2: 1,500,000).",
+                "name": "Scots",
+                "status": "5 (Developing)"
+            },
+            {
+                "abreviation": "RME",
+                "data": "90,000 in United Kingdom (Hancock 1990b). Total users in all countries: 99,200.",
+                "name": "Angloromani",
+                "status": "6a* (Vigorous)"
+            },
+            {
+                "abreviation": "ISG",
+                "data": "1,500 in United Kingdom (Parks and Parks 2012). 4,500 Deaf signers (2019 EUD).",
+                "name": "Irish Sign Language",
+                "status": "6a* (Vigorous)"
+            },
+            {
+                "abreviation": "STH",
+                "data": "16,700 in United Kingdom (2008 A. Redmond). 15,000 in England and Scotland, 1,710 in Northern Ireland (2008 A. Redmond).",
+                "name": "Shelta",
+                "status": "6a* (Vigorous)"
+            },
+            {
+                "abreviation": "GLE",
+                "data": "5,730 in United Kingdom (2011 census). England and Wales 1,560, Northern Ireland 4,170. Widely used as L2 in all parts of Northern Ireland.",
+                "name": "Irish",
+                "status": "6b (Threatened)"
+            },
+            {
+                "abreviation": "TRL",
+                "data": "460 (2011 census).",
+                "name": "Traveller Scottish",
+                "status": "6b* (Threatened)"
+            },
+            {
+                "abreviation": "COR",
+                "data": "600, all users. L1 users: No known L1 speakers, but emerging L2 speakers. The identity of the last speaker is hotly debated by scholars. Some sources say the last L1 speaker was Dorothy ‘Dolly’ Pentreath, who died in 1777. L2 users: 600 (2011 census). Ethnic population: 73,200 (2011 census).",
+                "name": "Cornish",
+                "status": "9 (Reawakening)"
+            },
+            {
+                "abreviation": "RMW",
+                "data": "No known L1 speakers. Last speaker, Manfri Wood, died in 1968.",
+                "name": "Romani, Welsh",
+                "status": "9 (Dormant)"
+            },
+            {
+                "abreviation": "PLD",
+                "data": "No known L1 speakers. Ethnic population: No ethnic community.",
+                "name": "Polari",
+                "status": "9 (Second language only)"
+            }
+        ],
+        "Status Profile": "https://www.ethnologue.com/sites/default/files/styles/large/public/graphs/22/full-GB.png"
+    },
+    "Meta": {
+        "fields": [
+            "Official Name",
+            "Population Full",
+            "Principal Languages",
+            "Literacy Rate",
+            "Immigrant Languages",
+            "International Conventions",
+            "General References",
+            "Deaf Population",
+            "Language Counts",
+            "Products",
+            "Status Profile",
+            "Status Languages",
+            "Maps"
+        ],
+        "name": "United Kingdom"
+    }
+}
